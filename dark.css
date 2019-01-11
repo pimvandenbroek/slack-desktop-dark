@@ -25,11 +25,11 @@ h1, h2, h3, h4 {
 }
 
     h1 a {
-        color: #a1a1a1;
+        color: #780096;
     }
 
         h1 a:active, h1 a:hover, h1 a:link, h1 a:visited {
-            color: #a1a1a1;
+            color: #780096;
         }
 
 .bordered {
