@@ -2465,7 +2465,7 @@ ts-mention {
 }
 
 .c-message_attachment__title_link span {
-    color: #a1a1a1;
+    color: #780096;
 }
 
 .c-message_attachment__text_expander {
@@ -8659,7 +8659,7 @@ comments {
 }
 
 a, a:link, a:visited {
-    color: #949494;
+    color: #780096;
 }
 
 /* fix messages background color */
