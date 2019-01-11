@@ -53,7 +53,7 @@ h1, h2, h3, h4 {
 }
 
 .bullet {
-    color: #780096;
+    color: #949494;
 }
 
 .alert {
@@ -165,7 +165,7 @@ h1, h2, h3, h4 {
 }
 
 .p-channel_sidebar__channel--im .c-presence--away {
-    color: #780096;
+    color: #949494;
 }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected {
@@ -246,7 +246,7 @@ h1, h2, h3, h4 {
         }
 
 .channels_list_holder .group_close, .channels_list_holder .im_close, .channels_list_holder .mpim_close {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .channels_list_holder .unread_highlights {
@@ -261,13 +261,13 @@ h1, h2, h3, h4 {
 }
 
 #channel_list_invites_link {
-    border-bottom: 1px dotted #780096;
-    color: #780096 !important;
+    border-bottom: 1px dotted #949494;
+    color: #949494 !important;
     font-size: 0.9rem;
 }
 
     #channel_list_invites_link:hover {
-        border-bottom: 1px solid #780096;
+        border-bottom: 1px solid #949494;
     }
 
 #quick_switcher_btn {
@@ -276,7 +276,7 @@ h1, h2, h3, h4 {
 }
 
     #quick_switcher_btn > i {
-        color: #780096;
+        color: #949494;
     }
 
     #quick_switcher_btn:active, #quick_switcher_btn:hover {
@@ -285,15 +285,15 @@ h1, h2, h3, h4 {
     }
 
         #quick_switcher_btn:active > i, #quick_switcher_btn:hover > i {
-            color: #780096;
+            color: #949494;
         }
 
         #quick_switcher_btn:active #quick_switcher_label, #quick_switcher_btn:hover #quick_switcher_label {
-            color: #780096;
+            color: #949494;
         }
 
 #quick_switcher_label {
-    color: #780096;
+    color: #949494;
 }
 
 .loading #loading-zone {
@@ -309,7 +309,7 @@ h1, h2, h3, h4 {
 }
 
 #loading_message #loading_message_attribution {
-    color: #780096;
+    color: #949494;
 }
 
 #loading_team_menu_bg, #loading_user_menu_bg {
@@ -330,7 +330,7 @@ h1, h2, h3, h4 {
 }
 
 .LoadingScreen-link {
-    color: #780096;
+    color: #949494;
 }
 
 .infinite_spinner_bg, .infinite_spinner_blue {
@@ -399,7 +399,7 @@ legend {
 }
 
     legend small {
-        color: #780096;
+        color: #949494;
     }
 
 .uneditable-input, .uneditable-textarea {
@@ -480,7 +480,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .help-block, .help-inline {
-    color: #780096;
+    color: #949494;
 }
 
 .input-append .add-on, .input-prepend .add-on {
@@ -525,12 +525,12 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
     .btn.btn_outline.disabled {
         background: #424242 !important;
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
         .btn.btn_outline.disabled:hover {
             background: #424242 !important;
-            color: #780096 !important;
+            color: #949494 !important;
         }
 
     .btn.btn_attachment {
@@ -564,7 +564,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .btn_outline {
     background: #222;
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     .btn_outline::after {
@@ -602,7 +602,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .btn_link {
-    color: #780096;
+    color: #949494;
 }
 
     .btn_link:hover, .btn_link:focus {
@@ -641,7 +641,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 .c-enhanced_text_input {
     background-color: #545454;
     border-color: #363636;
-    color: #780096;
+    color: #949494;
 }
 
     .c-enhanced_text_input:hover, .c-enhanced_text_input.c-enhanced_text_input--active {
@@ -684,7 +684,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .lazy_filter_select .lfs_list .lfs_item.disabled {
-    color: #780096;
+    color: #949494;
 }
 
 .lazy_filter_select .lfs_list .lfs_item.active {
@@ -712,15 +712,15 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
     #select_share_channels .lazy_filter_select .lfs_value .lfs_item.selected .ts_icon:not(.presence_icon) {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
 #select_share_channels .lazy_filter_select .lfs_item {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     #select_share_channels .lazy_filter_select .lfs_item .ts_icon:not(.presence_icon) {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
 #message_edit_form .emo_menu {
@@ -745,7 +745,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 #message_edit_form.offline #primary_file_button {
     border-color: #424242;
-    color: #780096;
+    color: #949494;
 }
 
 #msg_form.focus #msg_input, #msg_form.focus #primary_file_button:not(:hover):not(.active) {
@@ -764,7 +764,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #msg_form .msg_mentions_button {
-    color: #780096;
+    color: #949494;
 }
 
     #msg_form .msg_mentions_button:hover {
@@ -822,13 +822,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
     #msg_input.offline:not(.pretend-to-be-online) {
         background-color: #363636 !important;
-        color: #780096;
+        color: #949494;
     }
 
     #msg_input.disabled, #msg_input.ql-disabled {
         background-color: #363636;
         border-color: #363636;
-        color: #780096;
+        color: #949494;
     }
 
 #msg_input_message {
@@ -839,7 +839,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 #primary_file_button {
     background: padding-box #545454;
     border-color: #424242;
-    color: #780096;
+    color: #949494;
 }
 
     #primary_file_button.active, #primary_file_button.focus-ring, #primary_file_button:focus, #primary_file_button:hover {
@@ -859,11 +859,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #footer_archives_table {
-    color: #780096;
+    color: #949494;
 }
 
 #typing_text {
-    color: #780096;
+    color: #949494;
     filter: none;
 }
 
@@ -873,7 +873,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #special_formatting_text {
-    color: #780096;
+    color: #949494;
 }
 
 #message_edit_container .message_input, .inline_message_input_container .message_input {
@@ -949,7 +949,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .ts_toggle .ts_toggle_secondary_label {
-    color: #780096;
+    color: #949494;
 }
 
 .ts_toggle.checked .ts_toggle_button {
@@ -986,11 +986,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
             }
 
         .menu .menu_filter_container .icon_search {
-            color: #780096;
+            color: #949494;
         }
 
         .menu .menu_filter_container .icon_close {
-            color: #780096 !important;
+            color: #949494 !important;
         }
 
     .menu #menu_header .menu_simple_header {
@@ -1000,7 +1000,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
         .menu #menu_header .menu_simple_header a {
-            color: #780096;
+            color: #949494;
         }
 
             .menu #menu_header .menu_simple_header a:hover {
@@ -1013,11 +1013,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
     .menu .section_header .header_label {
         background-color: #363636;
-        color: #780096;
+        color: #949494;
     }
 
     .menu .section_header > div.header_label_container {
-        color: #780096;
+        color: #949494;
     }
 
     .menu ul li a {
@@ -1050,11 +1050,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
         }
 
     .menu ul li.disabled a {
-        color: #780096;
+        color: #949494;
     }
 
     .menu ul li i {
-        color: #780096;
+        color: #949494;
     }
 
     .menu ul li.divider {
@@ -1062,7 +1062,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     .menu ul li .menu_item_details {
-        color: #780096;
+        color: #949494;
     }
 
     .menu:not(.keyboard_active) ul li:hover:not(.disabled) a {
@@ -1118,7 +1118,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
         #autocomplete_menu header .header_label {
-            color: #780096;
+            color: #949494;
         }
 
         #autocomplete_menu header hr {
@@ -1135,7 +1135,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     #autocomplete_menu .keyword_match .modifier {
-        color: #780096;
+        color: #949494;
     }
 
     #autocomplete_menu .boxed {
@@ -1175,7 +1175,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     #autocomplete_menu.search_menu li.highlighted .modifier_icon, #autocomplete_menu.search_menu.unified li.highlighted .modifier_icon {
-        color: #780096;
+        color: #949494;
     }
 
     #autocomplete_menu.search_menu li.highlighted .action_btn, #autocomplete_menu.search_menu.unified li.highlighted .action_btn {
@@ -1183,7 +1183,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     #autocomplete_menu.search_menu li.highlighted .delete_btn, #autocomplete_menu.search_menu.unified li.highlighted .delete_btn {
-        color: #780096;
+        color: #949494;
     }
 
         #autocomplete_menu.search_menu li.highlighted .delete_btn:focus, #autocomplete_menu.search_menu li.highlighted .delete_btn:hover, #autocomplete_menu.search_menu.unified li.highlighted .delete_btn:focus, #autocomplete_menu.search_menu.unified li.highlighted .delete_btn:hover {
@@ -1191,7 +1191,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
         }
 
     #autocomplete_menu.search_menu li.highlighted .muted_text, #autocomplete_menu.search_menu.unified li.highlighted .muted_text {
-        color: #780096;
+        color: #949494;
     }
 
     #autocomplete_menu.search_menu:not(.keyboard_active) li:focus, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover {
@@ -1199,7 +1199,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
         #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .muted_text, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .muted_text, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .muted_text, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .muted_text, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .muted_text, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .muted_text, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .muted_text, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .muted_text {
-            color: #780096;
+            color: #949494;
         }
 
         #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .result_item_btn, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .result_item_btn, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .result_item_btn, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .result_item_btn, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .result_item_btn, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .result_item_btn, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .result_item_btn, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .result_item_btn {
@@ -1209,7 +1209,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
         }
 
         #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .modifier_icon, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .modifier_icon, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .modifier_icon, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .modifier_icon, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .modifier_icon, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .modifier_icon, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .modifier_icon, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .modifier_icon {
-            color: #780096;
+            color: #949494;
         }
 
         #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .action_btn, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .action_btn, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .action_btn, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .action_btn, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .action_btn, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .action_btn, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .action_btn, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .action_btn {
@@ -1217,7 +1217,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
         }
 
         #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .delete_btn, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .delete_btn, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .delete_btn, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .delete_btn, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .delete_btn, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .delete_btn, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .delete_btn, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .delete_btn {
-            color: #780096;
+            color: #949494;
         }
 
             #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .delete_btn:focus, #autocomplete_menu.search_menu:not(.keyboard_active) li:focus .delete_btn:hover, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .delete_btn:focus, #autocomplete_menu.search_menu:not(.keyboard_active) li:hover .delete_btn:hover, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .delete_btn:focus, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:focus .delete_btn:hover, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .delete_btn:focus, #autocomplete_menu.search_menu .results.unified:not(.keyboard_active) li:hover .delete_btn:hover, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .delete_btn:focus, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:focus .delete_btn:hover, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .delete_btn:focus, #autocomplete_menu.search_menu.unified:not(.keyboard_active) li:hover .delete_btn:hover, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .delete_btn:focus, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:focus .delete_btn:hover, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .delete_btn:focus, #autocomplete_menu.search_menu.unified .results.unified:not(.keyboard_active) li:hover .delete_btn:hover {
@@ -1225,7 +1225,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
             }
 
     #autocomplete_menu.search_menu .muted_text, #autocomplete_menu.search_menu.unified .muted_text {
-        color: #780096;
+        color: #949494;
     }
 
     #autocomplete_menu.search_menu .time_modifiers::before, #autocomplete_menu.search_menu.unified .time_modifiers::before {
@@ -1241,7 +1241,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     #autocomplete_menu.search_menu .action_btn, #autocomplete_menu.search_menu .modifier_icon, #autocomplete_menu.search_menu.unified .action_btn, #autocomplete_menu.search_menu.unified .modifier_icon {
-        color: #780096;
+        color: #949494;
     }
 
     #autocomplete_menu.search_menu footer .keyword::before, #autocomplete_menu.search_menu footer .modifier::before, #autocomplete_menu.search_menu footer.unified .keyword::before, #autocomplete_menu.search_menu footer.unified .modifier::before, #autocomplete_menu.search_menu.unified footer .keyword::before, #autocomplete_menu.search_menu.unified footer .modifier::before, #autocomplete_menu.search_menu.unified footer.unified .keyword::before, #autocomplete_menu.search_menu.unified footer.unified .modifier::before {
@@ -1321,7 +1321,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
     .pickmeup .pmu-instance .pmu-not-in-month {
         background: #222;
-        color: #780096;
+        color: #949494;
     }
 
         .pickmeup .pmu-instance .pmu-not-in-month.pmu-selected {
@@ -1330,12 +1330,12 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
     .pickmeup .pmu-instance .pmu-disabled {
         background: #222;
-        color: #780096;
+        color: #949494;
     }
 
         .pickmeup .pmu-instance .pmu-disabled:hover {
             background: #222;
-            color: #780096;
+            color: #949494;
         }
 
     .pickmeup .pmu-instance .pmu-selected {
@@ -1344,7 +1344,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     .pickmeup .pmu-instance nav {
-        color: #780096;
+        color: #949494;
     }
 
         .pickmeup .pmu-instance nav :first-child :hover {
@@ -1380,7 +1380,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #menu.date_picker li.date_picker_item.highlighted a {
-    color: #780096;
+    color: #949494;
 }
 
 #file_member_filter {
@@ -1417,11 +1417,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #team_filter .icon_search {
-    color: #780096;
+    color: #949494;
 }
 
 #team_filter a.icon_close {
-    color: #780096;
+    color: #949494;
 }
 
     #team_filter a.icon_close:hover {
@@ -1480,7 +1480,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
         .tab_complete_ui ul.type_members .unify_broadcast .ts_icon_broadcast {
-            color: #780096;
+            color: #949494;
         }
 
     .tab_complete_ui ul.type_cmds li.tab_complete_ui_group .group_name {
@@ -1493,7 +1493,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     .tab_complete_ui ul.type_cmds li.tab_complete_ui_item .cmd-left-td, .tab_complete_ui ul.type_cmds li.tab_complete_ui_item .cmd-right-td {
-        color: #780096;
+        color: #949494;
     }
 
     .tab_complete_ui ul.type_cmds .cmdname {
@@ -1501,7 +1501,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     .tab_complete_ui ul.type_cmds .cmddesc {
-        color: #780096;
+        color: #949494;
     }
 
     .tab_complete_ui li.tab_complete_ui_item, .tab_complete_ui li.tab_complete_ui_group {
@@ -1519,7 +1519,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
             }
 
     .tab_complete_ui .not_in_channel {
-        color: #780096;
+        color: #949494;
     }
 
 #team_menu {
@@ -1538,7 +1538,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
         }
 
     #team_menu i {
-        color: #780096;
+        color: #949494;
     }
 
     #team_menu .presence .presence_icon {
@@ -1550,7 +1550,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #team_menu_user {
-    color: #780096;
+    color: #949494;
 }
 
 #team_menu_user_name, #team_menu_user_details {
@@ -1563,7 +1563,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .slack_menu_header_secondary {
-    color: #780096;
+    color: #949494;
 }
 
 .slack_menu_download {
@@ -1571,7 +1571,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
     .slack_menu_download ts-icon {
-        color: #780096;
+        color: #949494;
     }
 
 #menu_items_scroller::-webkit-scrollbar-track {
@@ -1583,7 +1583,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #limit_meter_message_body {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_header {
@@ -1610,15 +1610,15 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
     .channel_title .channel_name_container .channel_name.muted {
-        color: #780096;
+        color: #949494;
     }
 
 .channel_title .channel_name_container .ts_icon_shared_channel.away, .channel_title .channel_name_container .mpdm_member.away {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_title .channel_name_container .muted_icon {
-    color: #780096;
+    color: #949494;
 }
 
     .channel_title .channel_name_container .muted_icon:hover {
@@ -1626,20 +1626,20 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #im_title.away {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_header_info button {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_title_info {
     background: #222;
-    color: #780096;
+    color: #949494;
 }
 
     .channel_title_info .channel_details_toggle, .channel_title_info .channel_actions_toggle {
-        color: #780096;
+        color: #949494;
     }
 
 .channel_header_icon {
@@ -1647,7 +1647,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .channel_calls_button .call_icon.call_window_offline {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_actions_toggle.active:focus, .details_toggle.active:focus {
@@ -1696,7 +1696,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .presence {
-    color: #780096;
+    color: #949494;
 }
 
 #channel_topic_text {
@@ -1708,11 +1708,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #edit_topic_trigger {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_list__day_divider__label {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_list__day_divider__label__pill {
@@ -1726,7 +1726,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .day_divider, .mention_day_container_div .day_divider {
     background: #222;
-    color: #780096;
+    color: #949494;
 }
 
     .day_divider hr, .mention_day_container_div .day_divider hr {
@@ -1748,7 +1748,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .day_container .day_divider {
     background: none;
-    color: #780096;
+    color: #949494;
 }
 
     .day_container .day_divider .day_divider_label {
@@ -1772,7 +1772,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .search_clear_icon .ts_icon_times_circle {
-    color: #780096;
+    color: #949494;
 }
 
 #search_spinner {
@@ -1784,19 +1784,19 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #search_container .icon_search {
-    color: #780096;
+    color: #949494;
 }
 
 #search_container .icon_close {
-    color: #780096;
+    color: #949494;
 }
 
 #team_filter .icon_search, #team_filter .ts_icon_spinner, #user_group_filter .icon_search, #user_group_filter .ts_icon_spinner, .searchable_member_list_search_bar .icon_search, .searchable_member_list_search_bar .ts_icon_spinner {
-    color: #780096;
+    color: #949494;
 }
 
 #team_filter a.icon_close, #user_group_filter a.icon_close, .searchable_member_list_search_bar a.icon_close {
-    color: #780096;
+    color: #949494;
 }
 
     #team_filter a.icon_close:hover, #user_group_filter a.icon_close:hover, .searchable_member_list_search_bar a.icon_close:hover {
@@ -1812,11 +1812,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message:hover .c-message__broadcast_preamble_outer, .c-message:hover .c-message__broadcast_preamble {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message--hover .c-message__broadcast_preamble_outer .c-message--focus .c-message__broadcast_preamble_outer, .c-message--hover .c-message__broadcast_preamble_outer .c-message--focus .c-message__broadcast_preamble, .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble_outer, .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
@@ -1824,11 +1824,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message:hover .c-message__body--automated, .c-message--hover .c-message__body--automated .c-message--focus .c-message__body--automated {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message:hover .c-message__file_meta, .c-message--hover .c-message__file_meta .c-message--focus .c-message__file_meta {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
@@ -1856,7 +1856,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message--sli_highlight .c-message__label .c-mrkdwn__member--link, .c-message--sli_highlight .c-message__label .c-mrkdwn__channel.internal_channel_link {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message--sli_highlight_negative .c-message__label {
@@ -1864,7 +1864,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message--resend .c-message__body {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message--deleting {
@@ -1880,7 +1880,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__broadcast_preamble_outer, .c-message__broadcast_preamble {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__sender {
@@ -1892,7 +1892,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
     .c-message__sender .c-emoji__text_mode_icon {
-        color: #780096;
+        color: #949494;
     }
 
 .c-message__body {
@@ -1904,19 +1904,19 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__body--automated {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__body--tombstone {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__body .c-mrkdwn__mention, .c-message__body .c-mrkdwn__broadcast--mention {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__label {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__label__highlight_title {
@@ -1924,7 +1924,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__label__highlight_positive, .c-message__label__highlight_negative {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__label__highlight_positive--active, .c-message__label__highlight_negative--active {
@@ -1932,7 +1932,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__resend_controls {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__resend_column {
@@ -1944,21 +1944,21 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__edited_label {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__tombstone_icon {
     background: rgba(84, 84, 84, 0.1);
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__bot_label {
     background: rgba(84, 84, 84, 0.1);
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__comment:before {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__call_attachment {
@@ -1971,7 +1971,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__call--ended .c-message__call_icon {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__call_info {
@@ -1983,11 +1983,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__call_name + .c-message__call_description::before {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__call_sub {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_actions__container {
@@ -2002,7 +2002,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .c-message_actions__button {
     border-right-color: #363636;
-    color: #780096;
+    color: #949494;
 }
 
     .c-message_actions__button:hover {
@@ -2019,7 +2019,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
     .c-message_group:hover .c-message_group__header {
-        color: #780096;
+        color: #949494;
     }
 
 .c-message_group__header {
@@ -2042,7 +2042,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message_list__spinner {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_list .c-scrollbar__bar {
@@ -2067,15 +2067,15 @@ ts-message {
         }
 
     ts-message.active .edited, ts-message.active .reply_bar .last_reply_at, ts-message.active .timestamp, ts-message.active.automated .message_body, ts-message.message--focus .edited, ts-message.message--focus .reply_bar .last_reply_at, ts-message.message--focus .timestamp, ts-message.message--focus.automated .message_body, ts-message:hover .edited, ts-message:hover .reply_bar .last_reply_at, ts-message:hover .timestamp, ts-message:hover.automated .message_body {
-        color: #780096;
+        color: #949494;
     }
 
     ts-message.active .meta, ts-message.message--focus .meta, ts-message:hover .meta {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
         ts-message.active .meta.msg_inline_file_preview_toggler a, ts-message.message--focus .meta.msg_inline_file_preview_toggler a, ts-message:hover .meta.msg_inline_file_preview_toggler a {
-            color: #780096 !important;
+            color: #949494 !important;
         }
 
     ts-message.is_pinned {
@@ -2083,11 +2083,11 @@ ts-message {
     }
 
     ts-message .timestamp {
-        color: #780096;
+        color: #949494;
     }
 
     ts-message .temp_msg_controls {
-        color: #780096;
+        color: #949494;
     }
 
     ts-message .edited {
@@ -2095,11 +2095,11 @@ ts-message {
     }
 
     ts-message:hover .edited {
-        color: #780096;
+        color: #949494;
     }
 
     ts-message .only_visible_to_user {
-        color: #780096;
+        color: #949494;
     }
 
     ts-message.ephemeral {
@@ -2108,12 +2108,12 @@ ts-message {
 
     ts-message .bot_label {
         background: #000;
-        color: #780096;
+        color: #949494;
     }
 
     ts-message .in_reply_to {
         background: #000;
-        color: #780096;
+        color: #949494;
     }
 
     ts-message.standalone:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display) {
@@ -2133,15 +2133,15 @@ ts-message {
         }
 
     ts-message .is_highlights_holder {
-        color: #780096;
+        color: #949494;
     }
 
         ts-message .is_highlights_holder ts-icon {
-            color: #780096;
+            color: #949494;
         }
 
         ts-message .is_highlights_holder .highlights_feedback_link {
-            color: #780096;
+            color: #949494;
         }
 
         ts-message .is_highlights_holder .highlights_feedback a:not(.highlights_feedback_link) {
@@ -2181,7 +2181,7 @@ ts-message {
         ts-message .action_hover_container .btn_msg_action {
             background: #222;
             border-right: 1px solid #363636;
-            color: #780096;
+            color: #949494;
         }
 
             ts-message .action_hover_container .btn_msg_action:hover {
@@ -2206,19 +2206,19 @@ ts-message {
         }
 
     ts-message .meta {
-        color: #780096;
+        color: #949494;
     }
 
         ts-message .meta.msg_inline_img_toggler .member, ts-message .meta.msg_inline_img_toggler .service_link, ts-message .meta.msg_inline_file_preview_toggler .member, ts-message .meta.msg_inline_file_preview_toggler .service_link {
-            color: #780096 !important;
+            color: #949494 !important;
         }
 
         ts-message .meta.msg_inline_img_toggler .msg_inline_media_toggler, ts-message .meta.msg_inline_img_toggler .ts_icon_dropbox, ts-message .meta.msg_inline_img_toggler a, ts-message .meta.msg_inline_file_preview_toggler .msg_inline_media_toggler, ts-message .meta.msg_inline_file_preview_toggler .ts_icon_dropbox, ts-message .meta.msg_inline_file_preview_toggler a {
-            color: #780096 !important;
+            color: #949494 !important;
         }
 
     ts-message .pinned_item_message_header {
-        color: #780096;
+        color: #949494;
     }
 
     ts-message .mention {
@@ -2229,7 +2229,7 @@ ts-message {
     ts-message .internal_member_link {
         background: #222 !important;
         border: 0;
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
         ts-message .internal_member_link:hover {
@@ -2292,7 +2292,7 @@ ts-mention {
 
     #convo_container ts-conversation ts-relatives ts-message.deleted .message_icon i {
         background-color: #545454;
-        color: #780096;
+        color: #949494;
     }
 
     #convo_container ts-conversation ts-relatives ts-message.deleted .message_content {
@@ -2321,7 +2321,7 @@ ts-mention {
 }
 
 #msgs_div .unread_divider.no_unreads .divider_label {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_archive_messages.card .col:first-child {
@@ -2329,7 +2329,7 @@ ts-mention {
 }
 
 .star {
-    color: #780096;
+    color: #949494;
 }
 
 .star_item {
@@ -2337,7 +2337,7 @@ ts-mention {
 }
 
     .star_item .star_meta {
-        color: #780096;
+        color: #949494;
     }
 
 .bot_message .message_sender {
@@ -2353,11 +2353,11 @@ ts-mention {
 }
 
 #msgs_scroller_div #end_display_div #end_display_status {
-    color: #780096;
+    color: #949494;
 }
 
 #msgs_scroller_div #end_display_div #end_display_meta {
-    color: #780096;
+    color: #949494;
 }
 
     #msgs_scroller_div #end_display_div #end_display_meta h1 {
@@ -2378,28 +2378,28 @@ ts-mention {
 }
 
 .dm_badge a {
-    color: #780096;
+    color: #949494;
 }
 
     .dm_badge a.member_preview_link {
-        color: #780096;
+        color: #949494;
     }
 
 .dm_badge .dm_badge:hover a {
-    color: #780096;
+    color: #949494;
 }
 
 .dm_badge .hint {
-    color: #780096;
+    color: #949494;
 }
 
 #toggle-subscription-status .subscription_desc {
-    color: #780096;
+    color: #949494;
 }
 
 .bot_label {
     background: #000;
-    color: #780096;
+    color: #949494;
 }
 
 @keyframes to-grey {
@@ -2408,7 +2408,7 @@ ts-mention {
     }
 
     100% {
-        color: #780096;
+        color: #949494;
     }
 }
 
@@ -2441,7 +2441,7 @@ ts-mention {
 }
 
 .c-message_attachment__delete {
-    color: #780096;
+    color: #949494;
 }
 
     .c-message_attachment__delete:hover {
@@ -2457,11 +2457,11 @@ ts-mention {
 }
 
 .c-message_attachment__author .c-message_attachment__autor--distinct {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_attachment__author_link + .c-message_attachment__author_link {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_attachment__title_link span {
@@ -2469,11 +2469,11 @@ ts-mention {
 }
 
 .c-message_attachment__text_expander {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_attachment__footer {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_attachment__image, .c-message_attachment__thumb, .c-message_attachment__video_thumb {
@@ -2502,11 +2502,11 @@ ts-mention {
     }
 
 .c-message_attachment__media_trigger .c-expandable_trigger {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_attachment__media_trigger--too_large {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message_attachment__select {
@@ -2523,7 +2523,7 @@ ts-mention {
 }
 
     .c-message__reply_bar:hover .c-message__reply_bar_arrow, .c-message__reply_bar--focus .c-message__reply_bar_arrow {
-        color: #780096;
+        color: #949494;
     }
 
     .c-message__reply_bar:hover .c-message__reply_bar_view_thread, .c-message__reply_bar--focus .c-message__reply_bar_view_thread {
@@ -2531,11 +2531,11 @@ ts-mention {
     }
 
 .c-message__reply_bar_description {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__file_meta {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message__image_container {
@@ -2563,19 +2563,19 @@ ts-mention {
     }
 
 .attachment_group .media_caret {
-    color: #780096;
+    color: #949494;
 }
 
 .attachment_group .attachment_source span {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .attachment_group .attachment_source .attachment_source_name + .attachment_author_name::before {
-    color: #780096;
+    color: #949494;
 }
 
 .attachment_group .inline_attachment.reply_broadcast + .attachment_rule {
-    color: #780096;
+    color: #949494;
 }
 
     .attachment_group .inline_attachment.reply_broadcast + .attachment_rule::after {
@@ -2583,7 +2583,7 @@ ts-mention {
     }
 
 .attachment_group .inline_attachment.message_unfurl .attachment_source .attachment_source_name a, .attachment_group .inline_attachment.message_unfurl .attachment_source .attachment_source_name span {
-    color: #780096;
+    color: #949494;
 }
 
 .attachment_group .attachment_title a {
@@ -2591,11 +2591,11 @@ ts-mention {
 }
 
 .attachment_group .attachment_footer_text + .attachment_ts::before {
-    color: #780096;
+    color: #949494;
 }
 
 .attachment_group .delete_attachment_link ts-icon::before {
-    color: #780096;
+    color: #949494;
 }
 
 .attachment_group .delete_attachment_link:hover ts-icon::before {
@@ -2603,7 +2603,7 @@ ts-mention {
 }
 
 .attachment_still_pending ts-inline-saver {
-    color: #780096;
+    color: #949494;
 }
 
 .msg_inline_attachment_column.column_border {
@@ -2615,7 +2615,7 @@ ts-mention {
 }
 
 .msg_inline_attachment_collapser, .msg_inline_attachment_expander, .msg_inline_img_collapser, .msg_inline_img_expander, .msg_inline_media_toggler, .msg_inline_room_preview_collapser, .msg_inline_room_preview_expander {
-    color: #780096;
+    color: #949494;
 }
 
     .msg_inline_attachment_collapser:hover, .msg_inline_attachment_expander:hover, .msg_inline_img_collapser:hover, .msg_inline_img_expander:hover, .msg_inline_media_toggler:hover, .msg_inline_room_preview_collapser:hover, .msg_inline_room_preview_expander:hover {
@@ -2627,19 +2627,19 @@ ts-mention {
 }
 
 .msg_inline_room_preview_collapser {
-    color: #780096;
+    color: #949494;
 }
 
     .msg_inline_room_preview_collapser:hover {
-        color: #780096;
+        color: #949494;
     }
 
 .inline_attachment span.attachment_author_name {
-    color: #780096;
+    color: #949494;
 }
 
 .inline_attachment span.attachment_author_subname, .inline_attachment span.attachment_service_name {
-    color: #780096;
+    color: #949494;
 }
 
 .inline_attachment a span:active, .inline_attachment a span:hover {
@@ -2647,11 +2647,11 @@ ts-mention {
 }
 
 .inline_attachment .attachment_footer, .inline_attachment .attachment_ts {
-    color: #780096;
+    color: #949494;
 }
 
     .inline_attachment .attachment_footer a, .inline_attachment .attachment_ts a {
-        color: #780096;
+        color: #949494;
     }
 
         .inline_attachment .attachment_footer a:active, .inline_attachment .attachment_footer a:hover {
@@ -2667,11 +2667,11 @@ ts-mention {
 }
 
 .meta.msg_inline_file_preview_toggler, .meta.msg_inline_img_toggler, .dense_meta.msg_inline_file_preview_toggler, .dense_meta.msg_inline_img_toggler {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     .meta.msg_inline_file_preview_toggler a[data-file-id], .meta.msg_inline_img_toggler a[data-file-id], .dense_meta.msg_inline_file_preview_toggler a[data-file-id], .dense_meta.msg_inline_img_toggler a[data-file-id] {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
     .meta.msg_inline_file_preview_toggler:hover, .meta.msg_inline_img_toggler:hover, .dense_meta.msg_inline_file_preview_toggler:hover, .dense_meta.msg_inline_img_toggler:hover {
@@ -2687,7 +2687,7 @@ ts-mention {
     }
 
         .meta.msg_inline_file_preview_toggler .msg_inline_file_preview_title:hover, .meta.msg_inline_img_toggler .msg_inline_file_preview_title:hover, .dense_meta.msg_inline_file_preview_toggler .msg_inline_file_preview_title:hover, .dense_meta.msg_inline_img_toggler .msg_inline_file_preview_title:hover {
-            color: #780096;
+            color: #949494;
         }
 
     .meta.msg_inline_file_preview_toggler .ts_icon.msg_inline_media_toggler:hover, .meta.msg_inline_img_toggler .ts_icon.msg_inline_media_toggler:hover, .dense_meta.msg_inline_file_preview_toggler .ts_icon.msg_inline_media_toggler:hover, .dense_meta.msg_inline_img_toggler .ts_icon.msg_inline_media_toggler:hover {
@@ -2703,11 +2703,11 @@ ts-mention {
     }
 
 .meta.meta_feature_fix_files .member, .dense_meta.meta_feature_fix_files .member {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .delete_attachment_link {
-    color: #780096;
+    color: #949494;
 }
 
     .delete_attachment_link:hover {
@@ -2749,7 +2749,7 @@ ts-mention {
     }
 
     .file_container .file_header .file_header_meta {
-        color: #780096;
+        color: #949494;
     }
 
     .file_container .file_header + .file_body {
@@ -2837,7 +2837,7 @@ ts-mention {
     }
 
     .post_body ul.checklist li.checked {
-        color: #780096;
+        color: #949494;
     }
 
 .post_body ul.list.checklist li {
@@ -2845,7 +2845,7 @@ ts-mention {
 }
 
     .post_body ul.list.checklist li.checked {
-        color: #780096;
+        color: #949494;
     }
 
 .post_body .message {
@@ -2857,7 +2857,7 @@ ts-mention {
 }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at {
-    color: #780096;
+    color: #949494;
 }
 
 ts-message .reply_bar:hover {
@@ -2993,7 +2993,7 @@ code {
 .file_container .CodeMirror .CodeMirror-code > div::before, .file_container .CodeMirror .sssh-line::before, .file_container .sssh-code .CodeMirror-code > div::before, .file_container .sssh-code .sssh-line::before, .c-file_container .CodeMirror .CodeMirror-code > div::before, .c-file_container .CodeMirror .sssh-line::before, .c-file_container .sssh-code .CodeMirror-code > div::before, .c-file_container .sssh-code .sssh-line::before {
     background-color: #363636;
     border-right: 1px solid #363636;
-    color: #780096;
+    color: #949494;
 }
 
 .CodeMirror {
@@ -3024,15 +3024,15 @@ code {
 }
 
 .CodeMirror-linenumber {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .CodeMirror-guttermarker {
-    color: #780096;
+    color: #949494;
 }
 
 .CodeMirror-guttermarker-subtle {
-    color: #780096;
+    color: #949494;
 }
 
 .CodeMirror-ruler {
@@ -3112,7 +3112,7 @@ code {
 }
 
 .cm-s-default .cm-link {
-    color: #780096;
+    color: #949494;
 }
 
 .cm-negative {
@@ -3244,11 +3244,11 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 }
 
 .sssh-link {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message--dense .c-timestamp__label {
-    color: #780096;
+    color: #949494;
 }
 
 .c-message--dense .c-message__content_header .c-custom_status {
@@ -3260,7 +3260,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 }
 
     .dense_theme ts-message.first .message_gutter .timestamp, .dense_theme ts-message.selected .message_gutter .timestamp {
-        color: #780096;
+        color: #949494;
     }
 
     .dense_theme ts-message .message_content .message_current_status {
@@ -3280,12 +3280,12 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
     }
 
     .light_theme ts-message .comment::before {
-        color: #780096;
+        color: #949494;
     }
 
 .channel_overlay {
     border-color: #363636;
-    color: #780096;
+    color: #949494;
 }
 
     .channel_overlay.channel_overlay_redesign .channel_overlay_title {
@@ -3293,7 +3293,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
     }
 
     .channel_overlay.channel_overlay_redesign li {
-        color: #780096;
+        color: #949494;
     }
 
 .channel_overlay_title_wrap {
@@ -3336,7 +3336,7 @@ body > pre {
     }
 
     #threads_msgs_scroller_div.loading::before {
-        color: #780096;
+        color: #949494;
     }
 
     #threads_msgs_scroller_div .threads_caught_up_divider .divider_line {
@@ -3404,7 +3404,7 @@ ts-thread {
     }
 
     ts-thread .thread_header .thread_action_btns button {
-        color: #780096;
+        color: #949494;
     }
 
     ts-thread .new_reply_indicator .blue_dot {
@@ -3412,7 +3412,7 @@ ts-thread {
     }
 
     #convo_tab .thread_participants, ts-thread .thread_participants {
-        color: #780096;
+        color: #949494;
     }
 
 #convo_loading_indicator {
@@ -3441,11 +3441,11 @@ ts-thread {
         }
 
     .reply_input_container .inline_message_input_container .ql-container ~ .emo_menu {
-        color: #780096;
+        color: #949494;
     }
 
 #file_reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container, #reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container, .reply_input_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container {
-    color: #780096;
+    color: #949494;
 }
 
 #unread_msgs_scroller_div::after {
@@ -3457,7 +3457,7 @@ ts-thread {
 }
 
     #unread_msgs_scroller_div.loading::before {
-        color: #780096;
+        color: #949494;
     }
 
 #unread_msgs_div .day_divider .day_divider_line {
@@ -3479,15 +3479,15 @@ ts-thread {
     }
 
     .unread_group_header .unread_group_collapse_caret .ts_icon_caret_down {
-        color: #780096;
+        color: #949494;
     }
 
 .collapsed .unread_group_header .ts_icon_caret_right, .collapsing .unread_group_header .ts_icon_caret_right {
-    color: #780096;
+    color: #949494;
 }
 
 .mark_as_read_checkmark {
-    color: #780096;
+    color: #949494;
 }
 
 .bottom_mark_all_read {
@@ -3499,15 +3499,15 @@ ts-thread {
 }
 
 .unread_group_footer .unread_group_new .unread_group_new_text {
-    color: #780096;
+    color: #949494;
 }
 
 .unread_group_footer .unread_group_new:hover .unread_group_new_text {
-    color: #780096;
+    color: #949494;
 }
 
 .unread_empty_state_message {
-    color: #780096;
+    color: #949494;
 }
 
 .unread_empty_state_undo_inner {
@@ -3539,11 +3539,11 @@ ts-thread {
     #flex_contents .heading {
         background: #151515;
         border-bottom-color: #363636;
-        color: #780096;
+        color: #949494;
     }
 
         #flex_contents .heading a {
-            color: #780096;
+            color: #949494;
         }
 
             #flex_contents .heading a:hover {
@@ -3551,11 +3551,11 @@ ts-thread {
             }
 
             #flex_contents .heading a.close_flexpane {
-                color: #780096;
+                color: #949494;
             }
 
         #flex_contents .heading .cancel_link {
-            color: #780096;
+            color: #949494;
         }
 
         #flex_contents .heading .menu_heading:hover {
@@ -3563,7 +3563,7 @@ ts-thread {
         }
 
         #flex_contents .heading .menu_icon {
-            color: #780096;
+            color: #949494;
         }
 
             #flex_contents .heading .menu_icon:hover {
@@ -3571,13 +3571,13 @@ ts-thread {
             }
 
     #flex_contents .heading_text {
-        color: #780096;
+        color: #949494;
     }
 
     #flex_contents .subheading:not(.empty) {
         background: #222;
         border-top: 1px solid #000;
-        color: #780096;
+        color: #949494;
     }
 
         #flex_contents .subheading:not(.empty) p a {
@@ -3585,7 +3585,7 @@ ts-thread {
         }
 
         #flex_contents .subheading:not(.empty) .filter_menu_label.active .arrow_down {
-            color: #780096;
+            color: #949494;
         }
 
     #flex_contents .toolbar_container {
@@ -3593,7 +3593,7 @@ ts-thread {
     }
 
     #flex_contents .flexpane_tab_bar li .tab, #flex_contents .flexpane_tab_bar li a {
-        color: #780096;
+        color: #949494;
     }
 
     #flex_contents .flexpane_tab_bar li:hover {
@@ -3601,7 +3601,7 @@ ts-thread {
     }
 
         #flex_contents .flexpane_tab_bar li:hover a, #flex_contents .flexpane_tab_bar li:hover .tab {
-            color: #780096;
+            color: #949494;
         }
 
     #flex_contents .flexpane_tab_bar li.active {
@@ -3609,7 +3609,7 @@ ts-thread {
     }
 
         #flex_contents .flexpane_tab_bar li.active a, #flex_contents .flexpane_tab_bar li.active .tab {
-            color: #780096;
+            color: #949494;
         }
 
     #flex_contents .help {
@@ -3618,11 +3618,11 @@ ts-thread {
     }
 
     #flex_contents i.callout {
-        color: #780096;
+        color: #949494;
     }
 
 .close_flexpane {
-    color: #780096;
+    color: #949494;
 }
 
     .close_flexpane:focus, .close_flexpane:hover {
@@ -3640,11 +3640,11 @@ ts-thread {
 }
 
 .msg_right_link {
-    color: #780096;
+    color: #949494;
 }
 
 .message_location_label {
-    color: #780096;
+    color: #949494;
 }
 
 #details_tab .heading {
@@ -3652,7 +3652,7 @@ ts-thread {
 }
 
     #details_tab .heading a.close_flexpane {
-        color: #780096;
+        color: #949494;
     }
 
         #details_tab .heading a.close_flexpane:hover {
@@ -3664,7 +3664,7 @@ ts-thread {
 }
 
 #details_tab .conversation_details .member_name:hover {
-    color: #780096;
+    color: #949494;
 }
 
 #details_tab .conversation_details .member_username:hover {
@@ -3685,7 +3685,7 @@ ts-thread {
     }
 
     #details_tab .channel_page_section .section_header a {
-        color: #780096;
+        color: #949494;
     }
 
     #details_tab .channel_page_section .section_title {
@@ -3693,7 +3693,7 @@ ts-thread {
     }
 
     #details_tab .channel_page_section .disclosure_triangle {
-        color: #780096;
+        color: #949494;
     }
 
     #details_tab .channel_page_section .channel_page_members_highlighter, #details_tab .channel_page_section .channel_page_pinned_items_highlighter {
@@ -3705,7 +3705,7 @@ ts-thread {
 }
 
 #details_tab .channel_page_member_tabs .icon_member_header {
-    color: #780096;
+    color: #949494;
 }
 
 #details_tab .pinned_item:hover {
@@ -3713,7 +3713,7 @@ ts-thread {
 }
 
 #details_tab .channel_page_action .leave_link {
-    color: #780096;
+    color: #949494;
 }
 
     #details_tab .channel_page_action .leave_link:hover {
@@ -3721,11 +3721,11 @@ ts-thread {
     }
 
 #details_tab .channel_section_label .ts_icon_info_circle {
-    color: #780096;
+    color: #949494;
 }
 
 #details_tab .feature_sli_channel_insights .channel_created_section .creator_link, #details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_page_member_row {
@@ -3733,7 +3733,7 @@ ts-thread {
 }
 
     .channel_page_member_row a {
-        color: #780096;
+        color: #949494;
     }
 
     .channel_page_member_row.away {
@@ -3741,7 +3741,7 @@ ts-thread {
     }
 
         .channel_page_member_row.away a {
-            color: #780096;
+            color: #949494;
         }
 
     .channel_page_member_row:hover {
@@ -3754,19 +3754,19 @@ ts-thread {
 }
 
     .pinned_item .pin_file_title {
-        color: #780096;
+        color: #949494;
     }
 
     .pinned_item .pin_member_name a {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
     .pinned_item .pin_metadata {
-        color: #780096;
+        color: #949494;
     }
 
     .pinned_item .remove_pin {
-        color: #780096;
+        color: #949494;
     }
 
         .pinned_item .remove_pin:hover {
@@ -3790,7 +3790,7 @@ ts-thread {
 }
 
 .c-channel_insights__drawer_title {
-    color: #780096;
+    color: #949494;
 }
 
 .c-channel_insights__item--user .member_preview_link, .c-channel_insights__item--user .message_sender {
@@ -3798,7 +3798,7 @@ ts-thread {
 }
 
 .c-channel_insights__user_title {
-    color: #780096;
+    color: #949494;
 }
 
 .c-channel_insights__channel .channel_link {
@@ -3806,15 +3806,15 @@ ts-thread {
 }
 
 .c-channel_insights__member_count {
-    color: #780096;
+    color: #949494;
 }
 
     .c-channel_insights__member_count .ts_icon_user {
-        color: #780096;
+        color: #949494;
     }
 
 .c-channel_insights .c-member__title {
-    color: #780096;
+    color: #949494;
 }
 
 .c-channel_insights__activity {
@@ -3843,7 +3843,7 @@ ts-thread {
 }
 
 .c-channel_insights__highlights_description {
-    color: #780096;
+    color: #949494;
 }
 
 .c-channel_insights__date_heading span {
@@ -3856,7 +3856,7 @@ ts-thread {
 }
 
 #file_list_toggle_users {
-    color: #780096;
+    color: #949494;
 }
 
     #file_list_toggle_users.active:hover, #file_list_toggle_users:hover {
@@ -3864,7 +3864,7 @@ ts-thread {
     }
 
     #file_list_toggle_users.active {
-        color: #780096;
+        color: #949494;
     }
 
 .file_list_item .icon, .file_reference .icon {
@@ -3908,7 +3908,7 @@ a.filetype_button_web {
     }
 
 a.file_download_link {
-    color: #780096;
+    color: #949494;
 }
 
     a.file_download_link:hover {
@@ -3916,7 +3916,7 @@ a.file_download_link {
     }
 
 a:hover .file_inline_icon {
-    color: #780096;
+    color: #949494;
 }
 
 a.gsheet img, a.pdf img {
@@ -3932,7 +3932,7 @@ html.no_touch a.filetype_button_web:hover {
     }
 
 .file_header_detailed {
-    color: #780096;
+    color: #949494;
 }
 
     .file_header_detailed .member {
@@ -3940,11 +3940,11 @@ html.no_touch a.filetype_button_web:hover {
     }
 
 .file_inline_icon {
-    color: #780096;
+    color: #949494;
 }
 
 .file_header .member {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .file_header .title {
@@ -3952,7 +3952,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .file_header .title a {
-        color: #780096;
+        color: #949494;
     }
 
         .file_header .title a:hover {
@@ -3960,11 +3960,11 @@ html.no_touch a.filetype_button_web:hover {
         }
 
 .flexpane_file_title .member, .flexpane_file_title .service_link {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .flexpane_file_title .title a, .flexpane_file_title .file_action_list a {
-    color: #780096;
+    color: #949494;
 }
 
     .flexpane_file_title .title a:hover, .flexpane_file_title .file_action_list a:hover {
@@ -3972,7 +3972,7 @@ html.no_touch a.filetype_button_web:hover {
     }
 
 .file_actions_cog {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     .file_actions_cog:hover {
@@ -3984,7 +3984,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .file_list_item a {
-        color: #780096;
+        color: #949494;
     }
 
         .file_list_item a.member {
@@ -3992,7 +3992,7 @@ html.no_touch a.filetype_button_web:hover {
         }
 
     .file_list_item .bullet {
-        color: #780096;
+        color: #949494;
     }
 
     .file_list_item .icon {
@@ -4001,23 +4001,23 @@ html.no_touch a.filetype_button_web:hover {
     }
 
     .file_list_item .ts_icon_comment {
-        color: #780096;
+        color: #949494;
     }
 
     .file_list_item .file_comment_link:hover {
-        color: #780096;
+        color: #949494;
     }
 
         .file_list_item .file_comment_link:hover .ts_icon_comment {
-            color: #780096;
+            color: #949494;
         }
 
     .file_list_item .title a {
-        color: #780096;
+        color: #949494;
     }
 
     .file_list_item .share_info .unshare_link {
-        color: #780096;
+        color: #949494;
     }
 
         .file_list_item .share_info .unshare_link:hover {
@@ -4027,7 +4027,7 @@ html.no_touch a.filetype_button_web:hover {
     .file_list_item .actions a, .file_list_item .actions span {
         background-color: #363636;
         border: 1px solid #828282;
-        color: #780096;
+        color: #949494;
     }
 
         .file_list_item .actions a:hover {
@@ -4046,7 +4046,7 @@ html.no_touch a.filetype_button_web:hover {
     }
 
         .file_list_item #share_dialog .title a, .file_list_item.active .title a, .file_list_item:active .title a, .file_list_item:hover .title a {
-            color: #780096;
+            color: #949494;
         }
 
         .file_list_item #share_dialog .actions, .file_list_item.active .actions, .file_list_item:active .actions, .file_list_item:hover .actions {
@@ -4058,11 +4058,11 @@ html.no_touch a.filetype_button_web:hover {
             }
 
 .unshare_link {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     .unshare_link i::before {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
     .unshare_link i.ts_icon_minus_circle_small:hover::before {
@@ -4082,11 +4082,11 @@ html.no_touch a.filetype_button_web:hover {
     }
 
 #file_preview_container .file_meta {
-    color: #780096;
+    color: #949494;
 }
 
 .file_page_meta {
-    color: #780096;
+    color: #949494;
 }
 
 #file_page_preview img {
@@ -4099,7 +4099,7 @@ html.no_touch a.filetype_button_web:hover {
     }
 
 .comment_meta {
-    color: #780096;
+    color: #949494;
 }
 
 .comment .special_formatting_quote .content {
@@ -4115,7 +4115,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
 .comment_actions {
-    color: #780096;
+    color: #949494;
 }
 
     .comment_actions:hover {
@@ -4145,7 +4145,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
 .tab_container .star_item ts-message .timestamp {
-    color: #780096;
+    color: #949494;
 }
 
 .tab_container .file_list_item:focus, .tab_container .file_list_item:hover {
@@ -4154,15 +4154,15 @@ html.no_touch a.filetype_button_web:hover {
 }
 
 .tab_container .file_list_item .star {
-    color: #780096;
+    color: #949494;
 }
 
 .tab_container .file_list_item .contents .file_comment_link {
-    color: #780096;
+    color: #949494;
 }
 
     .tab_container .file_list_item .contents .file_comment_link .ts_icon {
-        color: #780096;
+        color: #949494;
     }
 
     .tab_container .file_list_item .contents .file_comment_link:focus, .tab_container .file_list_item .contents .file_comment_link:hover {
@@ -4174,7 +4174,7 @@ html.no_touch a.filetype_button_web:hover {
         }
 
 .tab_container .file_list_item .contents .member, .tab_container .file_list_item .contents .service_link, .tab_container .file_list_item .contents .share_info, .tab_container .file_list_item .contents .time {
-    color: #780096;
+    color: #949494;
 }
 
 .tab_container .file_list_item .filetype_image {
@@ -4202,11 +4202,11 @@ html.no_touch a.filetype_button_web:hover {
 }
 
 #user_groups_header .user_groups_search .icon_search {
-    color: #780096;
+    color: #949494;
 }
 
 #user_groups_header a.icon_close {
-    color: #780096;
+    color: #949494;
 }
 
     #user_groups_header a.icon_close:hover {
@@ -4218,7 +4218,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .user_group_item a {
-        color: #780096;
+        color: #949494;
     }
 
 #flex_contents .user_group_item:hover {
@@ -4238,7 +4238,7 @@ html.no_touch a.filetype_button_web:hover {
     }
 
 .user_group_invite_member_small .add_icon {
-    color: #780096;
+    color: #949494;
 }
 
 #user_group_member_invite_div .disabled .lfs_item.lfs_token {
@@ -4258,7 +4258,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
 #member_mentions h3 a {
-    color: #780096;
+    color: #949494;
 }
 
 .mention_rxn .mention_rxn_summary {
@@ -4266,7 +4266,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .mention_rxn .mention_rxn_summary .member_preview_link, .mention_rxn .mention_rxn_summary .mention_rxn_summary_members {
-        color: #780096;
+        color: #949494;
     }
 
 .search_message_result {
@@ -4276,19 +4276,19 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .search_message_result .search_message_result_meta {
-        color: #780096;
+        color: #949494;
     }
 
         .search_message_result .search_message_result_meta a {
-            color: #780096;
+            color: #949494;
         }
 
         .search_message_result .search_message_result_meta .date_links a {
-            color: #780096;
+            color: #949494;
         }
 
 .search_message_result_text .result_msg_format a {
-    color: #780096;
+    color: #949494;
 }
 
 span.match {
@@ -4329,7 +4329,7 @@ span.match {
 }
 
     #search_results_team .team_result a {
-        color: #780096;
+        color: #949494;
     }
 
     #search_results_team .team_result:hover a {
@@ -4353,7 +4353,7 @@ span.match {
     }
 
 #paging_in_options .search_paging {
-    color: #780096;
+    color: #949494;
 }
 
 #search_results_items .search_paging {
@@ -4361,11 +4361,11 @@ span.match {
 }
 
 .search_paging i.disabled {
-    color: #780096;
+    color: #949494;
 }
 
 .search_paging a {
-    color: #780096;
+    color: #949494;
 }
 
     .search_paging a:hover {
@@ -4378,7 +4378,7 @@ span.match {
 
 .search_segmented_control {
     border-color: #363636;
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     .search_segmented_control:hover {
@@ -4405,7 +4405,7 @@ span.match {
 }
 
 .extract_expand_text, .extract_expand_icons {
-    color: #780096;
+    color: #949494;
 }
 
 .search_result_with_extract:hover .extract_expand_text, .search_result_with_extract:hover .extract_expand_icons {
@@ -4455,15 +4455,15 @@ span.match {
     }
 
     .top_results_search_message_result .timestamp {
-        color: #780096;
+        color: #949494;
     }
 
     .top_results_search_message_result .channel {
-        color: #780096;
+        color: #949494;
     }
 
         .top_results_search_message_result .channel a {
-            color: #780096;
+            color: #949494;
         }
 
     .top_results_search_message_result .jump {
@@ -4514,19 +4514,19 @@ span.match {
 
 .sli_expert_search__plus_sign_overlay {
     background-color: #363636;
-    color: #780096;
+    color: #949494;
 }
 
 .sli_expert_search__arrow {
-    color: #780096;
+    color: #949494;
 }
 
 .sli_expert_search_cta:hover .sli_expert_search__arrow, .sli_expert_search_header:hover .sli_expert_search__arrow {
-    color: #780096;
+    color: #949494;
 }
 
 .sli_expert_search__partial_terms {
-    color: #780096;
+    color: #949494;
 }
 
 .feature_sli_file_search #search_filters.all #filter_all {
@@ -4565,11 +4565,11 @@ span.match {
         }
 
     .feature_sli_file_search #search_results.all .search_message_result_meta, .feature_sli_file_search #search_results.messages .search_message_result_meta {
-        color: #780096;
+        color: #949494;
     }
 
     .feature_sli_file_search #search_results.all .channel_link, .feature_sli_file_search #search_results.messages .channel_link {
-        color: #780096;
+        color: #949494;
     }
 
     .feature_sli_file_search #search_results.all .sli_expert_search .channel_link, .feature_sli_file_search #search_results.messages .sli_expert_search .channel_link {
@@ -4590,7 +4590,7 @@ span.match {
     }
 
     .feature_sli_file_search #search_results.all .top_search_results .search_message_result__channel a {
-        color: #780096;
+        color: #949494;
     }
 
     .feature_sli_file_search #search_results.all .sli_expert_search_cta {
@@ -4635,11 +4635,11 @@ span.match {
 }
 
     #client-ui .file_list_item.file_list_item--redesign .file_list_item__channel {
-        color: #780096;
+        color: #949494;
     }
 
     #client-ui .file_list_item.file_list_item--redesign .message_sender {
-        color: #780096;
+        color: #949494;
     }
 
 .p-shortcuts_flexpane__shortcut {
@@ -4655,7 +4655,7 @@ span.match {
 }
 
 .p-shortcuts_flexpane__shortcut_title {
-    color: #780096;
+    color: #949494;
 }
 
 .p-shortcuts_flexpane__title {
@@ -4663,15 +4663,15 @@ span.match {
 }
 
 .p-shortcuts_flexpane__tip {
-    color: #780096;
+    color: #949494;
 }
 
 .p-shortcuts_flexpane__section_description {
-    color: #780096;
+    color: #949494;
 }
 
 .p-shortcuts_flexpane__sub_heading {
-    color: #780096;
+    color: #949494;
 }
 
 .c-keyboard_key {
@@ -4682,11 +4682,11 @@ span.match {
 }
 
 .tab_container .star_item .message .timestamp, .tab_container .star_item ts-message .timestamp {
-    color: #780096;
+    color: #949494;
 }
 
 #member_preview_scroller a:not(.member_name):not(.current_status_preset_option), .team_list_item a:not(.member_name):not(.current_status_preset_option) {
-    color: #780096;
+    color: #949494;
 }
 
     #member_preview_scroller a:not(.member_name):not(.current_status_preset_option):hover, .team_list_item a:not(.member_name):not(.current_status_preset_option):hover {
@@ -4694,7 +4694,7 @@ span.match {
     }
 
 #member_preview_scroller .member_data_table a, #team_list .member_data_table a {
-    color: #780096;
+    color: #949494;
 }
 
     #member_preview_scroller .member_data_table a:hover, #team_list .member_data_table a:hover {
@@ -4702,7 +4702,7 @@ span.match {
     }
 
 #member_preview_scroller a.member_action_button, #team_list a.member_action_button {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     #member_preview_scroller a.member_action_button:hover, #team_list a.member_action_button:hover {
@@ -4715,7 +4715,7 @@ span.match {
 }
 
 #member_preview_scroller .member_data_table a, #member_preview_web_container .member_data_table a, #team_list .member_data_table a, .menu_member_header .member_data_table a {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     #member_preview_scroller .member_data_table a:hover, #member_preview_web_container .member_data_table a:hover, #team_list .member_data_table a:hover, .menu_member_header .member_data_table a:hover {
@@ -4724,7 +4724,7 @@ span.match {
 
 #member_preview_scroller .member_data_table .bot_label, #member_preview_web_container .member_data_table .bot_label, #team_list .member_data_table .bot_label, .menu_member_header .member_data_table .bot_label {
     background: #000;
-    color: #780096;
+    color: #949494;
 }
 
 #member_preview_scroller {
@@ -4752,11 +4752,11 @@ span.match {
 }
 
 #member_preview_scroller .member_details .member_restriction, #member_preview_scroller .member_details .member_timezone_value, #member_preview_scroller .member_details .member_current_status, #member_preview_web_container .member_details .member_restriction, #member_preview_web_container .member_details .member_timezone_value, #member_preview_web_container .member_details .member_current_status, .menu_member_header .member_details .member_restriction, .menu_member_header .member_details .member_timezone_value, .menu_member_header .member_details .member_current_status {
-    color: #780096;
+    color: #949494;
 }
 
     #member_preview_scroller .member_details .member_restriction a, #member_preview_scroller .member_details .member_timezone_value a, #member_preview_scroller .member_details .member_current_status a, #member_preview_web_container .member_details .member_restriction a, #member_preview_web_container .member_details .member_timezone_value a, #member_preview_web_container .member_details .member_current_status a, .menu_member_header .member_details .member_restriction a, .menu_member_header .member_details .member_timezone_value a, .menu_member_header .member_details .member_current_status a {
-        color: #780096;
+        color: #949494;
     }
 
         #member_preview_scroller .member_details .member_restriction a:hover, #member_preview_scroller .member_details .member_timezone_value a:hover, #member_preview_scroller .member_details .member_current_status a:hover, #member_preview_web_container .member_details .member_restriction a:hover, #member_preview_web_container .member_details .member_timezone_value a:hover, #member_preview_web_container .member_details .member_current_status a:hover, .menu_member_header .member_details .member_restriction a:hover, .menu_member_header .member_details .member_timezone_value a:hover, .menu_member_header .member_details .member_current_status a:hover {
@@ -4764,7 +4764,7 @@ span.match {
         }
 
     #member_preview_scroller .member_details .member_restriction .ts_icon_question_circle:focus, #member_preview_scroller .member_details .member_restriction .ts_icon_question_circle:hover, #member_preview_scroller .member_details .member_timezone_value .ts_icon_question_circle:focus, #member_preview_scroller .member_details .member_timezone_value .ts_icon_question_circle:hover, #member_preview_scroller .member_details .member_current_status .ts_icon_question_circle:focus, #member_preview_scroller .member_details .member_current_status .ts_icon_question_circle:hover, #member_preview_web_container .member_details .member_restriction .ts_icon_question_circle:focus, #member_preview_web_container .member_details .member_restriction .ts_icon_question_circle:hover, #member_preview_web_container .member_details .member_timezone_value .ts_icon_question_circle:focus, #member_preview_web_container .member_details .member_timezone_value .ts_icon_question_circle:hover, #member_preview_web_container .member_details .member_current_status .ts_icon_question_circle:focus, #member_preview_web_container .member_details .member_current_status .ts_icon_question_circle:hover, .menu_member_header .member_details .member_restriction .ts_icon_question_circle:focus, .menu_member_header .member_details .member_restriction .ts_icon_question_circle:hover, .menu_member_header .member_details .member_timezone_value .ts_icon_question_circle:focus, .menu_member_header .member_details .member_timezone_value .ts_icon_question_circle:hover, .menu_member_header .member_details .member_current_status .ts_icon_question_circle:focus, .menu_member_header .member_details .member_current_status .ts_icon_question_circle:hover {
-        color: #780096;
+        color: #949494;
     }
 
 #member_preview_scroller .member_details_divider, #member_preview_web_container .member_details_divider, .menu_member_header .member_details_divider {
@@ -4772,7 +4772,7 @@ span.match {
 }
 
 #disabled_members_tab a {
-    color: #780096;
+    color: #949494;
 }
 
     #disabled_members_tab a:hover {
@@ -4781,12 +4781,12 @@ span.match {
     }
 
 #disabled_members_tab.active a {
-    color: #780096;
+    color: #949494;
 }
 
 .team_list_item {
     border-top: 1px solid #545454;
-    color: #780096;
+    color: #949494;
 }
 
     .team_list_item .member_name {
@@ -4835,19 +4835,19 @@ span.match {
 .inline_file_upload.btn_unstyle {
     background: padding-box #545454;
     border-color: #424242;
-    color: #780096;
+    color: #949494;
 }
 
     .inline_file_upload.btn_unstyle.active, .inline_file_upload.btn_unstyle.focus-ring, .inline_file_upload.btn_unstyle:focus, .inline_file_upload.btn_unstyle:hover {
         background: #424242;
         border-color: #363636;
-        color: #780096 !important;
+        color: #949494 !important;
 }
 
 .inline_file_upload.btn_unstyle .ts_icon_plus_thick.upload_plus_icon:hover, .inline_file_upload.btn_unstyle .ts_icon_plus_thick.upload_plus_icon.active, .inline_file_upload.btn_unstyle .ts_icon_plus_thick.upload_plus_icon.focus-ring, .inline_file_upload.btn_unstyle .ts_icon_plus_thick.upload_plus_icon:focus {
         background: #424242;
         border-color: #363636;
-        color: #780096 !important;
+        color: #949494 !important;
 }
 
 #reply_container .inline_message_input_container .message_input div, #reply_container .inline_message_input_container textarea, .reply_input_container .inline_message_input_container .message_input div, .reply_input_container .inline_message_input_container textarea {
@@ -4864,17 +4864,17 @@ span.match {
 }
 
     #reply_container .reply_broadcast_buttons_container .reply_broadcast_label_container ts-icon.ts_icon_question_circle, .reply_input_container .reply_broadcast_buttons_container .reply_broadcast_label_container ts-icon.ts_icon_question_circle {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
 #reply_container .reply_limited_in_general, .reply_input_container .reply_limited_in_general {
     background: #222;
-    color: #780096;
+    color: #949494;
 }
 
 #convo_container .convo_flexpane_divider {
     border-top-color: #363636;
-    color: #780096;
+    color: #949494;
 }
 
     #convo_container .convo_flexpane_divider .reply_count {
@@ -4882,7 +4882,7 @@ span.match {
     }
 
 #convo_container ts-conversation ts-message.selected .message_content .thread_channel_link {
-    color: #780096;
+    color: #949494;
 }
 
 #convo_tab .message_input, #convo_tab textarea#msg_text {
@@ -4894,7 +4894,7 @@ span.match {
 }
 
 #whats_new_tab .flex_heading_controls label {
-    color: #780096;
+    color: #949494;
 }
 
 .c-member__display-name, .c-team__display-name, .c-usergroup__handle {
@@ -4916,7 +4916,7 @@ span.match {
 }
 
     .c-member .external_team_badge.default {
-        background-color: #780096;
+        background-color: #949494;
         color: #a1a1a1;
         text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
     }
@@ -4930,7 +4930,7 @@ span.match {
 }
 
 .c-member--small .presence {
-    color: #780096;
+    color: #949494;
 }
 
 .c-member--small .team_image.icon_16 {
@@ -4938,21 +4938,21 @@ span.match {
 }
 
 .c-member--small .team_image.default {
-    background-color: #780096;
+    background-color: #949494;
     color: #a1a1a1;
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
 }
 
 .c-member--dark .c-member__current-status {
-    color: #780096;
+    color: #949494;
 }
 
     .c-member--dark .c-member__current-status::before {
-        color: #780096;
+        color: #949494;
     }
 
 .c-member--dark .c-member__name, .c-member--dark .c-member__secondary-name {
-    color: #780096;
+    color: #949494;
 }
 
 .c-member--dark .c-member__display-name, .c-member--dark .presence {
@@ -4960,11 +4960,11 @@ span.match {
 }
 
 .c-member--medium {
-    color: #780096;
+    color: #949494;
 }
 
     .c-member--medium .presence {
-        color: #780096;
+        color: #949494;
     }
 
 .c-member__secondary-name--medium {
@@ -4972,7 +4972,7 @@ span.match {
 }
 
 .c-member--large {
-    color: #780096;
+    color: #949494;
 }
 
 .c-member__display-name--large, .c-member__title--large {
@@ -4980,16 +4980,16 @@ span.match {
 }
 
 .c-member__other-names--large {
-    color: #780096;
+    color: #949494;
 }
 
 .c-usergroup--small .c-usergroup__icon {
-    background-color: #780096;
+    background-color: #949494;
     color: #a1a1a1;
 }
 
 .c-usergroup__not-in-channel-context--small {
-    color: #780096;
+    color: #949494;
 }
 
 .p-emoji_picker {
@@ -5058,7 +5058,7 @@ span.match {
 }
 
 .p-emoji_picker__group_tab {
-    color: #780096;
+    color: #949494;
 }
 
     .p-emoji_picker__group_tab:hover {
@@ -5073,7 +5073,7 @@ span.match {
 }
 
 .p-emoji_picker__icon_search {
-    color: #780096;
+    color: #949494;
 }
 
 .p-emoji_picker__content:hover .p-emoji_picker__skintone_btn_container {
@@ -5086,7 +5086,7 @@ span.match {
 }
 
 .p-emoji_picker__tip i, .p-emoji_picker__no_results i {
-    color: #780096;
+    color: #949494;
 }
 
 .p-emoji_picker__tip {
@@ -5094,7 +5094,7 @@ span.match {
 }
 
 .p-emoji_picker__no_results {
-    color: #780096;
+    color: #949494;
 }
 
 .p-emoji_picker__preview_text {
@@ -5112,7 +5112,7 @@ span.match {
     }
 
 .p-emoji_picker__emoji_deluxe_label {
-    color: #780096;
+    color: #949494;
 }
 
 input[type="text"].p-emoji_picker__input:focus {
@@ -5121,7 +5121,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
 #message_edit_form .current_status_empty_emoji, #message_edit_form .current_status_empty_emoji_cover, #message_edit_form .emo_menu, #msg_form .current_status_empty_emoji, #msg_form .current_status_empty_emoji_cover, #msg_form .emo_menu, .current_status_container .current_status_empty_emoji, .current_status_container .current_status_empty_emoji_cover, .current_status_container .emo_menu, .current_status_input_container .current_status_empty_emoji, .current_status_input_container .current_status_empty_emoji_cover, .current_status_input_container .emo_menu, .inline_message_input_container .current_status_empty_emoji, .inline_message_input_container .current_status_empty_emoji_cover, .inline_message_input_container .emo_menu, .share_channel_modal_contents .current_status_empty_emoji, .share_channel_modal_contents .current_status_empty_emoji_cover, .share_channel_modal_contents .emo_menu {
-    color: #780096;
+    color: #949494;
 }
 
 #message_edit_form .current_status_input.focus ~ .current_status_emoji_picker .current_status_empty_emoji, #msg_form .current_status_input.focus ~ .current_status_emoji_picker .current_status_empty_emoji, .current_status_container .current_status_input.focus ~ .current_status_emoji_picker .current_status_empty_emoji, .current_status_input_container .current_status_input.focus ~ .current_status_emoji_picker .current_status_empty_emoji, .inline_message_input_container .current_status_input.focus ~ .current_status_emoji_picker .current_status_empty_emoji, .share_channel_modal_contents .current_status_input.focus ~ .current_status_emoji_picker .current_status_empty_emoji {
@@ -5145,7 +5145,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
     .current_status_input_for_team_menu .current_status_presets .current_status_presets_section_header .header_label {
-        color: #780096;
+        color: #949494;
     }
 
 .rxn {
@@ -5189,7 +5189,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 .modal_input_note, .modal_input_note_full_width, .input_note_special {
-    color: #780096;
+    color: #949494;
 }
 
 .modal-footer {
@@ -5277,7 +5277,7 @@ input[type="text"].p-emoji_picker__input:focus {
 
 .p-apps_browser__category_header {
     background: #222;
-    color: #780096;
+    color: #949494;
 }
 
 .p-apps_browser__app {
@@ -5309,11 +5309,11 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 .p-apps_browser__app_description {
-    color: #780096;
+    color: #949494;
 }
 
 #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a {
-    color: #780096;
+    color: #949494;
 }
 
     #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a:active, #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a:hover, #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a:visited {
@@ -5330,7 +5330,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
 #fs_modal.channel_options_modal .convert_to_shared label {
-    color: #780096;
+    color: #949494;
 }
 
 #fs_modal.channel_options_modal .channel_option_item {
@@ -5359,7 +5359,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
     #channel_invite_container.page_needs_enterprise .channel_invite_row.disabled {
-        color: #780096;
+        color: #949494;
     }
 
 #channel_invite_modal #channel_invite_container:not(.keyboard_active).not_scrolling .channel_invite_row:not(.disabled):hover, #channel_invite_modal .channel_invite_row.highlighted:not(.disabled) {
@@ -5384,7 +5384,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
 .channel_prefs_body__mute_help_text {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_prefs_notifications_table {
@@ -5422,11 +5422,11 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
 #channel_browser .channel_browser_creator_name {
-    color: #780096;
+    color: #949494;
 }
 
 #channel_browser .channel_browser_open, #channel_browser .channel_browser_preview {
-    color: #780096;
+    color: #949494;
 }
 
 #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted {
@@ -5436,7 +5436,7 @@ input[type="text"].p-emoji_picker__input:focus {
 
 #channel_browser .channel_browser_divider {
     background: transparent;
-    color: #780096;
+    color: #949494;
 }
 
 #channel_browser .channel_browser_sort_container::after {
@@ -5444,11 +5444,11 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
 .channel_invite_member .add_icon, .channel_invite_member_small .add_icon {
-    color: #780096;
+    color: #949494;
 }
 
 .channel_invite_member .name_container .not_in_token, .channel_invite_member_small .name_container .not_in_token {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .channel_invite_member .invite_user_group_avatar, .channel_invite_member_small .invite_user_group_avatar {
@@ -5478,7 +5478,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
     #im_browser .im_browser_row.disabled {
-        color: #780096;
+        color: #949494;
     }
 
 #im_browser #im_list_container:not(.keyboard_active).not_scrolling .im_browser_row:not(.disabled_dm):hover, #im_browser #im_browser .im_browser_row.highlighted {
@@ -5516,7 +5516,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
     .fs_modal_file_viewer_header .star {
-        color: #780096;
+        color: #949494;
     }
 
     .fs_modal_file_viewer_header .control_btn, .fs_modal_file_viewer_header a.control_btn {
@@ -5528,7 +5528,7 @@ input[type="text"].p-emoji_picker__input:focus {
         }
 
         .fs_modal_file_viewer_header .control_btn:focus, .fs_modal_file_viewer_header .control_btn:hover, .fs_modal_file_viewer_header a.control_btn:focus, .fs_modal_file_viewer_header a.control_btn:hover {
-            color: #780096;
+            color: #949494;
         }
 
         .fs_modal_file_viewer_header .control_btn.active, .fs_modal_file_viewer_header .control_btn:active, .fs_modal_file_viewer_header a.control_btn.active, .fs_modal_file_viewer_header a.control_btn:active {
@@ -5536,7 +5536,7 @@ input[type="text"].p-emoji_picker__input:focus {
         }
 
     .fs_modal_file_viewer_header .file_size, .fs_modal_file_viewer_header .muted_tooltip_info {
-        color: #780096;
+        color: #949494;
     }
 
     .fs_modal_file_viewer_header .close_btn::after {
@@ -5574,7 +5574,7 @@ input[type="text"].p-emoji_picker__input:focus {
 
 .fs_modal_file_viewer_content .no_comment {
     background-color: #222;
-    color: #780096;
+    color: #949494;
 }
 
 .fs_modal_file_viewer_content .aside_close_btn {
@@ -5596,7 +5596,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 #fs_modal.help_modal #fs_modal_footer .help_modal_status #no_open_issues {
-    color: #780096;
+    color: #949494;
 }
 
 #fs_modal.help_modal .help_modal_header {
@@ -5609,7 +5609,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 #fs_modal.help_modal .help_modal_divider {
-    color: #780096;
+    color: #949494;
 }
 
 #fs_modal.help_modal .help_modal_article_row {
@@ -5617,7 +5617,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
     #fs_modal.help_modal .help_modal_article_row .channel_browser_open {
-        color: #780096;
+        color: #949494;
     }
 
     #fs_modal.help_modal #help_modal_list_container:not(.keyboard_active).not_scrolling .help_modal_article_row:hover, #fs_modal.help_modal .help_modal_article_row.highlighted {
@@ -5634,7 +5634,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
     .admin_invites_account_type_option .option_arrow {
-        color: #780096;
+        color: #949494;
     }
 
     .admin_invites_account_type_option:hover:not(.disabled) h3 {
@@ -5650,7 +5650,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 .admin_invite_row .delete_row, .admin_invite_row .hide_custom_message, .admin_invites_custom_message_container .delete_row, .admin_invites_custom_message_container .hide_custom_message {
-    color: #780096;
+    color: #949494;
 }
 
     .admin_invite_row .delete_row:hover, .admin_invite_row .hide_custom_message:hover, .admin_invites_custom_message_container .delete_row:hover, .admin_invites_custom_message_container .hide_custom_message:hover {
@@ -5680,7 +5680,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
     #channel_invite_tokens.active {
-        border-color: #780096;
+        border-color: #949494;
         box-shadow: 0 0 7px rgba(148, 148, 148, 0.15);
     }
 
@@ -5721,7 +5721,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
     #shortcuts_dialog.modal .info_block {
-        color: #780096;
+        color: #949494;
     }
 
     #shortcuts_dialog.modal .close {
@@ -5736,7 +5736,7 @@ input[type="text"].p-emoji_picker__input:focus {
         }
 
 #fs_modal.prefs_modal label.sound_option:hover:not(.disabled) ts-icon {
-    color: #780096;
+    color: #949494;
 }
 
 #fs_modal.prefs_modal #prefs_sidebar .theme_thumb {
@@ -5834,7 +5834,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 .jumbomoji_pref_disabled {
-    color: #780096;
+    color: #949494;
 }
 
 .jumbomoji_disabled_note {
@@ -5868,7 +5868,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
         #edit_team_profile_list .row:nth-child(n+5).active .edit_team_profile_list_controls i.ts_icon_cog_o {
-            color: #780096;
+            color: #949494;
         }
 
 #edit_team_profile_list .edit_team_profile_list_controls i {
@@ -5876,11 +5876,11 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
     #edit_team_profile_list .edit_team_profile_list_controls i.ts_icon_cog_o:hover {
-        color: #780096;
+        color: #949494;
     }
 
     #edit_team_profile_list .edit_team_profile_list_controls i.ts_icon_grabby_patty:hover {
-        color: #780096;
+        color: #949494;
     }
 
 #edit_team_profile_list .sortable-placeholder::before {
@@ -5906,11 +5906,11 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
 #edit_team_profile_add i {
-    color: #780096;
+    color: #949494;
 }
 
 #edit_team_profile_edit .profile_field_preview_protector label.select::after, #edit_team_profile_edit .profile_field_preview_protector label.select:hover::after {
-    color: #780096;
+    color: #949494;
 }
 
 #edit_team_profile_edit .row.option_row.show_remove_action i {
@@ -5938,7 +5938,7 @@ input[type="text"].p-emoji_picker__input:focus {
     }
 
         #edit_team_profile_custom .row .col .profile_field_preview:active span, #edit_team_profile_custom .row .col .profile_field_preview:hover span {
-            color: #780096;
+            color: #949494;
         }
 
 #edit_team_profile_custom .row .col input {
@@ -5947,7 +5947,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
 #edit_team_profile_custom .row .col[data-type=options_list] span::after {
-    color: #780096;
+    color: #949494;
 }
 
 #edit_team_profile_custom .row .col[data-type=options_list] input {
@@ -5971,7 +5971,7 @@ input[type="text"].p-emoji_picker__input:focus {
 
     .profile_field_preview_protector .profile_field_preview input:disabled, .profile_field_preview_protector .profile_field_preview select:disabled {
         background: #545454;
-        color: #780096;
+        color: #949494;
     }
 
     .profile_field_preview_protector .profile_field_preview .profile_field_preview_fade_out_mask {
@@ -5992,7 +5992,7 @@ ts-jumper ts-jumper-container {
 }
 
 ts-jumper ts-jumper-help {
-    color: #780096;
+    color: #949494;
 }
 
 ts-jumper input[type=text] {
@@ -6014,11 +6014,11 @@ ts-jumper ol li {
 }
 
     ts-jumper ol li .channel_name, ts-jumper ol li .member_real_name, ts-jumper ol li .member_username, ts-jumper ol li .team_username {
-        color: #780096;
+        color: #949494;
     }
 
         ts-jumper ol li .channel_not_member, ts-jumper ol li .team_username, ts-jumper ol li .member_real_name + .member_username, ts-jumper ol li .member_username + .member_real_name, ts-jumper ol li ts-icon {
-            color: #780096;
+            color: #949494;
         }
 
     ts-jumper ol li .unread_count {
@@ -6054,7 +6054,7 @@ ts-jumper ol:not(.keyboard_active) li:hover {
 }
 
 #generic_dialog.basic_share_dialog .lazy_filter_select .lfs_item .ts_icon:not(.presence_icon), #share_dialog .lazy_filter_select .lfs_item .ts_icon:not(.presence_icon) {
-    color: #780096;
+    color: #949494;
 }
 
 #share_dialog_input_container #file_comment_textarea.ql-container {
@@ -6207,15 +6207,15 @@ ts-jumper ol:not(.keyboard_active) li:hover {
         }
 
     .menu_member_header .member_details .member_title {
-        color: #780096;
+        color: #949494;
     }
 
     .menu_member_header .member_details .member_restriction, .menu_member_header .member_details .member_timezone_value {
-        color: #780096;
+        color: #949494;
     }
 
         .menu_member_header .member_details .member_restriction a, .menu_member_header .member_details .member_timezone_value a {
-            color: #780096;
+            color: #949494;
         }
 
             .menu_member_header .member_details .member_restriction a:hover, .menu_member_header .member_details .member_timezone_value a:hover {
@@ -6232,11 +6232,11 @@ ts-jumper ol:not(.keyboard_active) li:hover {
 }
 
     .menu_member_footer p {
-        color: #780096;
+        color: #949494;
     }
 
 .member_meta {
-    color: #780096;
+    color: #949494;
 }
 
 .mini, .dull_grey, .flat_grey, .blue_link, .blue_fill, .slate_blue, .charcoal_grey, .indifferent_grey, .ts_tip_tip .subtle_silver {
@@ -6244,11 +6244,11 @@ ts-jumper ol:not(.keyboard_active) li:hover {
 }
 
 .greigh, .sky_blue, .severe_grey, .havana_blue, .burnt_violet, .plastic_grey, .cloud_silver, .sk_dark_gray, .sk_dark_grey, .subtle_silver, .old_petunia_grey {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .clear_blue {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .moscow_red, .yolk_orange, .mustard_yellow, .candy_red_on_hover:hover, .moscow_red_on_hover:hover {
@@ -6302,7 +6302,7 @@ nav.top.persistent {
 }
 
 header #menu_toggle {
-    color: #780096;
+    color: #949494;
 }
 
 header #header_team_nav {
@@ -6316,11 +6316,11 @@ header #header_team_nav {
     }
 
 header .header_btns a {
-    color: #780096;
+    color: #949494;
 }
 
     header .header_btns a .label {
-        color: #780096;
+        color: #949494;
     }
 
 header .vert_divider {
@@ -6354,7 +6354,7 @@ footer, #autocomplete_menu.search_menu footer.unified {
 }
 
 .plastic_row .chevron {
-    color: #780096;
+    color: #949494;
 }
 
 .plastic_row .description {
@@ -6385,7 +6385,7 @@ html.no_touch .pagination ul > li > a:hover {
 
 html.no_touch .pagination ul > .disabled > a:hover {
     background: #363636;
-    color: #780096;
+    color: #949494;
 }
 
 html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
@@ -6411,7 +6411,7 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
     }
 
 .tab_set a.secondary {
-    color: #780096;
+    color: #949494;
 }
 
     .tab_set a.selected, .tab_set a.secondary.selected {
@@ -6451,7 +6451,7 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
     background-color: #222;
     background-image: none;
     border-color: #363636;
-    color: #780096;
+    color: #949494;
 }
 
 .pager li.previous > a, .pager li.previous > span {
@@ -6467,7 +6467,7 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
 }
 
 .pager .disabled > a, .pager .disabled > span {
-    color: #780096;
+    color: #949494;
 }
 
 .pagination ul > li > a, .pagination ul > li > span {
@@ -6486,12 +6486,12 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
 
 .pagination ul > .disabled > span {
     background: #363636;
-    color: #780096;
+    color: #949494;
 }
 
 .pagination ul > .disabled > a {
     background: #363636;
-    color: #780096;
+    color: #949494;
 }
 
     .pagination ul > .disabled > a:focus {
@@ -6504,7 +6504,7 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
 }
 
 .icon_search_close {
-    color: #780096;
+    color: #949494;
 }
 
     .icon_search_close:hover {
@@ -6513,7 +6513,7 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus {
 
 .help {
     border-top-color: #000;
-    color: #780096;
+    color: #949494;
 }
 
 .two_factor_option_app, .two_factor_option_sms, .configure-step1, .configure-step3 {
@@ -6577,7 +6577,7 @@ a.two_factor_choice {
 }
 
 #channel_specific_settings .revert_to_default {
-    color: #780096;
+    color: #949494;
 }
 
     #channel_specific_settings .revert_to_default:hover {
@@ -6586,7 +6586,7 @@ a.two_factor_choice {
 
 .admin_list_item {
     border-bottom-color: #222;
-    color: #780096;
+    color: #949494;
 }
 
     .admin_list_item:hover {
@@ -6598,7 +6598,7 @@ a.two_factor_choice {
     }
 
     .admin_list_item .admin_member_type, .admin_list_item .admin_member_caret {
-        color: #780096;
+        color: #949494;
     }
 
     .admin_list_item .pill.group {
@@ -6636,7 +6636,7 @@ a.two_factor_choice {
             }
 
         .admin_list_item.expanded .sub_action {
-            color: #780096;
+            color: #949494;
         }
 
             .admin_list_item.expanded .sub_action:hover {
@@ -6645,7 +6645,7 @@ a.two_factor_choice {
 
 @media screen and (max-width: 768px) {
     .admin_list_item.expanded .sub_action + .sub_action:hover::before, .admin_list_item.expanded .sub_action + .sub_action:hover::after {
-        color: #780096;
+        color: #949494;
     }
 }
 
@@ -6700,7 +6700,7 @@ table.billing tr:hover td {
 }
 
 .link_invoice_id, .link_statement_id {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
 .billing_invoice tbody tbody tr {
@@ -6720,7 +6720,7 @@ table tr {
     }
 
 .slackbot_response_fieldset .delete_response {
-    color: #780096;
+    color: #949494;
 }
 
     .slackbot_response_fieldset .delete_response:hover {
@@ -6732,7 +6732,7 @@ table tr {
 }
 
 .message_cell.disabled {
-    color: #780096;
+    color: #949494;
 }
 
 #message_container #msg_limit {
@@ -6824,7 +6824,7 @@ table tr {
     }
 
 .ent_alert a {
-    color: #780096;
+    color: #949494;
 }
 
     .ent_alert a:link, .ent_alert a:visited {
@@ -6841,7 +6841,7 @@ table tr {
 
 .ent_analytics__disclaimer {
     border-top-color: #828282;
-    color: #780096;
+    color: #949494;
 }
 
 .ent_analytics_overview__header {
@@ -6878,11 +6878,11 @@ table tr {
 }
 
 .ent_callout__insight {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_callout__limit {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_callout__meter_bar_container {
@@ -6917,7 +6917,7 @@ table tr {
 }
 
 .ent_copy_muted {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_copy {
@@ -6925,7 +6925,7 @@ table tr {
 }
 
 .ent_csv_popover__footer_text {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_csv_popover__footer {
@@ -6934,7 +6934,7 @@ table tr {
 }
 
 .ent_csv_popover__subtitle {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_csv_popover__title {
@@ -6942,7 +6942,7 @@ table tr {
 }
 
 .ent_data_table__cell--header {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_data_table__cell--positive {
@@ -6954,7 +6954,7 @@ table tr {
 }
 
 .ent_data_table__cell--sorting {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_data_table__cell {
@@ -6991,7 +6991,7 @@ table tr {
 }
 
 .ent_data_table__secondary_text {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_data_table__thead, .ent_data_table--empty_state_wrapper {
@@ -7017,11 +7017,11 @@ table tr {
 }
 
 .ent_graph__data_summary_date_label, .ent_graph__data_summary_point::after {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_graph__legend_item--defocus {
-    fill: #780096 !important;
+    fill: #949494 !important;
 }
 
 .ent_graph__legend_text {
@@ -7055,7 +7055,7 @@ table tr {
     }
 
 .ent_graph__svg_container .c3-xgrid-focus line {
-    stroke: #780096;
+    stroke: #949494;
 }
 
 .ent_graph__svg_container .ent_graph__point:not(._expanded_) {
@@ -7067,11 +7067,11 @@ table tr {
 }
 
 .ent_graph__svg_container text {
-    fill: #780096;
+    fill: #949494;
 }
 
 .ent_graph__tooltip {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_graph_empty__overlay {
@@ -7087,7 +7087,7 @@ table tr {
 }
 
 .ent_graph_header--secondary {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_graph_tabs__tab--selected {
@@ -7099,7 +7099,7 @@ table tr {
 }
 
 .ent_graph_tabs__tab {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_graph_tabs {
@@ -7111,7 +7111,7 @@ table tr {
 }
 
 .ent_icon_button {
-    color: #780096;
+    color: #949494;
 }
 
     .ent_icon_button:hover {
@@ -7147,7 +7147,7 @@ table tr {
 }
 
 .ent_modal_breadcrumb_text {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_modal_footer {
@@ -7178,21 +7178,21 @@ table tr {
 }
 
 .ent_table_banner__secondary_text {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_table_customizer__header_subtitle {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_table_customizer_disabled_list_header {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_table_customizer_footer {
     background-color: #222;
     border-top-color: #000;
-    color: #780096;
+    color: #949494;
 }
 
 .ent_table_customizer_header {
@@ -7200,11 +7200,11 @@ table tr {
 }
 
 .ent_table_customizer_list_item--disabled {
-    color: #780096;
+    color: #949494;
 }
 
 .ent_updated_at {
-    color: #780096;
+    color: #949494;
 }
 
 .enterprise {
@@ -7224,7 +7224,7 @@ table tr {
 }
 
 .enterprise_search_bar .ent_clear_search_icon {
-    color: #780096;
+    color: #949494;
 }
 
 .enterprise_search_bar::before {
@@ -7233,7 +7233,7 @@ table tr {
 
 @keyframes color_fade {
     from {
-        color: #780096;
+        color: #949494;
     }
 
     to {
@@ -7242,7 +7242,7 @@ table tr {
 }
 
 .file_header .title a {
-    color: #780096;
+    color: #949494;
 }
 
     .file_header .title a:hover {
@@ -7250,7 +7250,7 @@ table tr {
     }
 
 .file_actions_cog {
-    color: #780096 !important;
+    color: #949494 !important;
 }
 
     .file_actions_cog:hover {
@@ -7262,11 +7262,11 @@ table tr {
 }
 
 .action_cog {
-    color: #780096;
+    color: #949494;
 }
 
     .action_cog i {
-        color: #780096;
+        color: #949494;
     }
 
 html.no_touch .action_cog:hover {
@@ -7356,7 +7356,7 @@ html.no_touch .action_cog:hover {
 }
 
 .widescreen:not(.nav_open) nav#site_nav ul a {
-    color: #780096;
+    color: #949494;
 }
 
     .widescreen:not(.nav_open) nav#site_nav ul a:link, .widescreen:not(.nav_open) nav#site_nav ul a:visited, .widescreen:not(.nav_open) nav#site_nav ul a:hover, .widescreen:not(.nav_open) nav#site_nav ul a:active {
@@ -7364,7 +7364,7 @@ html.no_touch .action_cog:hover {
     }
 
 .widescreen:not(.nav_open) nav#site_nav #user_menu_name {
-    color: #780096;
+    color: #949494;
 }
 
 nav#site_nav {
@@ -7391,7 +7391,7 @@ header {
 
         header #header_team_nav li a .team_icon.ts_icon_plus {
             background: #000;
-            color: #780096;
+            color: #949494;
         }
 
     header #header_team_nav #add_team_option {
@@ -7416,11 +7416,11 @@ html.no_touch header .header_btns a:hover {
 }
 
     html.no_touch header .header_btns a:hover .label {
-        color: #780096;
+        color: #949494;
     }
 
 nav#site_nav h3, #header_team_name, header #header_team_name a {
-    color: #780096;
+    color: #949494;
 }
 
     nav#site_nav #footer_nav a, #header_team_name:hover .fa-caret-down, .widescreen:not(.nav_open) nav#site_nav #footer_nav a {
@@ -7440,7 +7440,7 @@ nav#site_nav h3, #header_team_name, header #header_team_name a {
 }
 
 .admin_pref .admin_pref_locked_label {
-    color: #780096;
+    color: #949494;
 }
 
 .tooltip-inner {
@@ -7591,7 +7591,7 @@ body.api .hljs-quote {
 }
 
 body.api .hljs-link, body.api .hljs-regexp {
-    color: #780096;
+    color: #949494;
 }
 
 body.api span.btn {
@@ -7609,7 +7609,7 @@ nav#api_nav {
 }
 
 #api_nav .footer_nav a {
-    color: #780096;
+    color: #949494;
 }
 
     #api_nav .footer_nav a:hover {
@@ -7625,7 +7625,7 @@ nav#api_nav {
 }
 
 .api_articles .article_tag_count {
-    color: #780096;
+    color: #949494;
 }
 
 .api.feature_related_content #api_related_content h2 {
@@ -7633,7 +7633,7 @@ nav#api_nav {
 }
 
 .api.feature_related_content #api_related_content .article_link_title_wrapper {
-    color: #780096;
+    color: #949494;
 }
 
 .tab_menu {
@@ -7658,7 +7658,7 @@ nav#api_nav {
         }
 
         .tab_menu .tab:disabled {
-            color: #780096;
+            color: #949494;
         }
 
 .page_faq h3, .page_scim h3 {
@@ -7666,7 +7666,7 @@ nav#api_nav {
 }
 
 .application_config aside {
-    color: #780096;
+    color: #949494;
 }
 
 .page_apps_directory_home {
@@ -7678,7 +7678,7 @@ nav#api_nav {
     }
 
 .page_apps_directory_home__search .apps_search_input::placeholder, .page_apps_directory_home__search .apps_search_input:focus::placeholder {
-    color: #780096;
+    color: #949494;
 }
 
 .page_apps_directory_home__search .apps_search_input__body {
@@ -7723,7 +7723,7 @@ a.splash_interactive__window_link {
 }
 
 .splash_interactive__window_message_content_text--drive {
-    color: #780096;
+    color: #949494;
 }
 
 .search_input.apps_search_input {
@@ -7751,7 +7751,7 @@ a.splash_interactive__window_link {
 
     .menu.avatar_menu ul li a img, .menu.avatar_menu ul li a ts-icon {
         background-color: #545454;
-        color: #780096;
+        color: #949494;
     }
 
 .menu.avatar_menu:not(.keyboard_active) ul li:hover:not(.disabled) a ts-icon {
@@ -7781,7 +7781,7 @@ a.splash_interactive__window_link {
     }
 
     #page .media_list.media_list_with_arrows a::before {
-        color: #780096;
+        color: #949494;
     }
 
 #page .media_list_title {
@@ -7789,7 +7789,7 @@ a.splash_interactive__window_link {
 }
 
 #page .media_list_subtitle {
-    color: #780096;
+    color: #949494;
 }
 
 #page .sidebar_menu_list_item {
@@ -7817,11 +7817,11 @@ a.splash_interactive__window_link {
     }
 
 #page ul.breadcrumbs li {
-    color: #780096;
+    color: #949494;
 }
 
     #page ul.breadcrumbs li:not(:first-child)::before {
-        color: #780096;
+        color: #949494;
     }
 
 #page ul.navigation_list li a {
@@ -7908,7 +7908,7 @@ nav.top.apps_nav {
     }
 
         .plastic_typeahead_item:not(.plastic_typeahead_item_no_results).is_active ts-icon {
-            color: #780096;
+            color: #949494;
         }
 
     .plastic_typeahead_item:not(.plastic_typeahead_item_no_results):not(.is_active):hover {
@@ -7933,7 +7933,7 @@ a.plastic_typeahead_item {
 }
 
 .icon_search_input {
-    color: #780096;
+    color: #949494;
 }
 
 .quote_block {
@@ -7952,7 +7952,7 @@ a.plastic_typeahead_item {
 }
 
 .service_breadcrumbs li .ts_icon, .service_breadcrumbs li span {
-    color: #780096;
+    color: #949494;
 }
 
 .c-tabs__tab_menu {
@@ -7961,7 +7961,7 @@ a.plastic_typeahead_item {
 }
 
 .c-tabs__tab {
-    color: #780096;
+    color: #949494;
 }
 
     .c-tabs__tab:hover {
@@ -7979,7 +7979,7 @@ a.plastic_typeahead_item {
 }
 
 a.c-tabs__tab--plastic {
-    color: #780096;
+    color: #949494;
 }
 
     a.c-tabs__tab--plastic:hover {
@@ -8005,7 +8005,7 @@ a.c-tabs__tab--plastic {
 }
 
 .p-detail_arrow_icon {
-    color: #780096;
+    color: #949494;
 }
 
     .p-detail_arrow_icon:hover {
@@ -8088,7 +8088,7 @@ table.gray_header_border tr:first-child th:not(:only-of-type) {
     }
 
     .legal-main .c-nav--sidebar__listitem a.is-selected {
-        color: #780096;
+        color: #949494;
     }
 }
 
@@ -8097,7 +8097,7 @@ table.gray_header_border tr:first-child th:not(:only-of-type) {
 }
 
     .legal-main .t-contains-subtle-links a:not(.c-button):active, .legal-main .t-contains-subtle-links a:not(.c-button):focus, .legal-main .t-contains-subtle-links a:not(.c-button):hover {
-        color: #780096;
+        color: #949494;
     }
 
 @media screen and (min-width: 67.8125rem) {
@@ -8129,7 +8129,7 @@ table.gray_header_border tr:first-child th:not(:only-of-type) {
 }
 
 a.p-oauth_nav__anchor {
-    color: #780096;
+    color: #949494;
 }
 
 .p-oauth_nav__team-switcher .menu_launcher {
@@ -8157,7 +8157,7 @@ ts-rocket {
 }
 
     ts-rocket a {
-        color: #780096;
+        color: #949494;
     }
 
         ts-rocket a caret::before {
@@ -8183,7 +8183,7 @@ ts-rocket {
     }
 
         ts-rocket .cl.text .checkbox.checked + li {
-            color: #780096;
+            color: #949494;
         }
 
     ts-rocket > div > .checklist {
@@ -8192,7 +8192,7 @@ ts-rocket {
     }
 
         ts-rocket > div > .checklist .checkbox.checked + li {
-            color: #780096;
+            color: #949494;
         }
 
         ts-rocket > div > .checklist li::before {
@@ -8200,7 +8200,7 @@ ts-rocket {
         }
 
         ts-rocket > div > .checklist li.checked {
-            color: #780096;
+            color: #949494;
         }
 
     ts-rocket .unfurl .unfurl-container {
@@ -8216,7 +8216,7 @@ ts-rocket {
     }
 
     ts-rocket .unfurl .unfurl-remove::before {
-        color: #780096;
+        color: #949494;
     }
 
     ts-rocket .unfurl .unfurl-remove:hover::before {
@@ -8303,12 +8303,12 @@ nav {
         }
 
     nav .star_info {
-        color: #780096;
+        color: #949494;
     }
 
     nav #space_status {
         border-left: 1px solid #545454;
-        color: #780096;
+        color: #949494;
     }
 
         nav #space_status.slightly_concerned {
@@ -8316,7 +8316,7 @@ nav {
         }
 
     nav #edit_status {
-        color: #780096;
+        color: #949494;
     }
 
     nav .comments_open.unread span.notif {
@@ -8325,11 +8325,11 @@ nav {
     }
 
     nav .comments_close {
-        color: #780096;
+        color: #949494;
     }
 
         nav .comments_close:hover::before {
-            color: #780096 !important;
+            color: #949494 !important;
         }
 
 ts-space header {
@@ -8353,11 +8353,11 @@ ts-space header {
         }
 
         ts-space header .owner_detail .inline-edit:focus::-webkit-input-placeholder {
-            color: #780096;
+            color: #949494;
         }
 
         ts-space header .owner_detail .inline-edit:focus::-moz-placeholder {
-            color: #780096;
+            color: #949494;
         }
 
     ts-space header .owner_detail ::selection, ts-space header .owner_detail ::-moz-selection {
@@ -8365,7 +8365,7 @@ ts-space header {
     }
 
     ts-space header .owner_detail small {
-        color: #780096;
+        color: #949494;
     }
 
     ts-space header .divider {
@@ -8400,15 +8400,15 @@ comments {
     }
 
     #space_alert a {
-        color: #780096;
+        color: #949494;
     }
 
     #space_alert button#space_alert_close::before {
-        color: #780096;
+        color: #949494;
     }
 
     #space_alert button#space_alert_close:hover::before {
-        color: #780096;
+        color: #949494;
     }
 
     #space_alert .btn_outline.btn_transparent {
@@ -8445,11 +8445,11 @@ comments {
     }
 
     #space_find_bar #space_find_close::before {
-        color: #780096;
+        color: #949494;
     }
 
     #space_find_bar #space_find_close:hover::before {
-        color: #780096;
+        color: #949494;
     }
 
 #connected_members .connected_members_count {
@@ -8459,7 +8459,7 @@ comments {
 
 #connected_members .toggle_more_members_popover {
     background: #222;
-    color: #780096;
+    color: #949494;
 }
 
 #connected_members_overflow_popover {
@@ -8509,7 +8509,7 @@ comments {
     }
 
     #shortcuts_spaces_dialog .close .ts_icon::before {
-        color: #780096 !important;
+        color: #949494 !important;
     }
 
 .textstyle_menu .arrow-shadow::after {
@@ -8544,11 +8544,11 @@ comments {
     }
 
     .textstyle_menu.link .content > a.link {
-        color: #780096;
+        color: #949494;
     }
 
     .textstyle_menu.link .content ::-webkit-input-placeholder, .textstyle_menu.link .content ::-moz-placeholder {
-        color: #780096;
+        color: #949494;
     }
 
     .textstyle_menu.link .content .buttons a.item.active, .textstyle_menu.link .content .buttons a.item:hover {
@@ -8569,11 +8569,11 @@ comments {
 }
 
 .textstyle_menu .buttons a.link_unfurl:not(.unfurl_pending) span::before {
-    color: #780096;
+    color: #949494;
 }
 
 .para_menu .insert .tip {
-    color: #780096;
+    color: #949494;
 }
 
 .para_menu .insert .tooltip .arrow-shadow::after {
@@ -8659,7 +8659,7 @@ comments {
 }
 
 a, a:link, a:visited {
-    color: #780096;
+    color: #949494;
 }
 
 /* fix messages background color */
