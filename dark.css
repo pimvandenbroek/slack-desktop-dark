@@ -4,15 +4,15 @@ body {
 }
 
 a {
-    color: #780096;
+    color: #0087FF;
 }
 
     a:link, a:visited {
-        color: #780096;
+        color: #0087FF;
     }
 
     a:hover, a:active, a:focus {
-        color: #780096;
+        color: #0087FF;
     }
 
 hr {
@@ -25,11 +25,11 @@ h1, h2, h3, h4 {
 }
 
     h1 a {
-        color: #780096;
+        color: #0087FF;
     }
 
         h1 a:active, h1 a:hover, h1 a:link, h1 a:visited {
-            color: #780096;
+            color: #0087FF;
         }
 
 .bordered {
@@ -233,7 +233,7 @@ h1, h2, h3, h4 {
         }
 
         .channels_list_holder ul li.mention a {
-            color: #780096;
+            color: #0087FF;
         }
 
         .channels_list_holder ul li.unread:not(.muted_channel) .primary_action {
@@ -2465,7 +2465,7 @@ ts-mention {
 }
 
 .c-message_attachment__title_link span {
-    color: #780096;
+    color: #0087FF;
 }
 
 .c-message_attachment__text_expander {
@@ -8659,7 +8659,7 @@ comments {
 }
 
 a, a:link, a:visited {
-    color: #780096;
+    color: #0087FF;
 }
 
 /* fix messages background color */
