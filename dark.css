@@ -8672,6 +8672,7 @@ a, a:link, a:visited {
 .p-message_pane__limited_history_foreword_headline {
     color: #a1a1a1 !important;
 }
-a.p-channel_sidebar__channel.p-channel_sidebar__channel--im.p-channel_sidebar__channel--unread span{
+a.p-channel_sidebar__channel--unread span{
     color: #99D04A !important;
 }
+
