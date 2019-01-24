@@ -4,6 +4,9 @@ A darker Slack theme.
 
 # Installing into Slack
 
+Under Preferences -> Sidebar, Add the following under Custom Theme:
+#363636,#444A47,#D39B46,#FEFEFE,#434745,#FEFEFE,#99D04A,#DB6668
+
 Find your Slack's application directory.
 
 * Windows: `%homepath%\AppData\Local\slack\`
