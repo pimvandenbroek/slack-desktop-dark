@@ -8673,3 +8673,36 @@ a, a:link, a:visited {
     color: #a1a1a1 !important;
 }
 
+.p-degraded_list__loading {
+    color: #fff !important;
+    background: #222 !important;
+}
+
+.c-mrkdwn__user_group--link, .c-member_slug--link {
+    background: #1264a3;
+    color: #e8f5fa !important;
+}
+
+.c-mrkdwn__user_group--link:hover, .c-member_slug--link:hover {
+    background: #1264a3;
+    color: #e8f5fa !important;
+}
+
+.c-mrkdwn__broadcast--mention, .c-mrkdwn__broadcast--mention:hover, .c-mrkdwn__highlight, .c-mrkdwn__mention, .c-mrkdwn__mention:hover, .c-mrkdwn__user_group--mention, .c-mrkdwn__user_group--mention:hover {
+    background: #b98f05;
+    color: #fff;
+}
+
+.c-file__title {
+    color:#fff;
+}
+.c-file__meta {
+    color:#d4d4d4;   
+}
+
+.c-file__slide--meta {
+    background: #262626 !important;
+}
+.c-file_container {
+    background: #262626 !important;
+}
