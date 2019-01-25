@@ -1912,7 +1912,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__body .c-mrkdwn__mention, .c-message__body .c-mrkdwn__broadcast--mention {
-    color: #949494;
+    color: #fff;
 }
 
 .c-message__label {
@@ -8689,7 +8689,7 @@ a, a:link, a:visited {
 }
 
 .c-mrkdwn__broadcast--mention, .c-mrkdwn__broadcast--mention:hover, .c-mrkdwn__highlight, .c-mrkdwn__mention, .c-mrkdwn__mention:hover, .c-mrkdwn__user_group--mention, .c-mrkdwn__user_group--mention:hover {
-    background: #b98f05;
+    background: #780096;
     color: #fff;
 }
 
@@ -8705,4 +8705,11 @@ a, a:link, a:visited {
 }
 .c-file_container {
     background: #262626 !important;
+}
+
+#search_terms .ql-placeholder {
+color:white !important;
+}
+.c-email__sender_collapsed, .c-email__title_collapsed {
+	color:white !important;
 }
