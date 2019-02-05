@@ -8720,3 +8720,6 @@ color:#616061 !important;}
 background-color: transparent;
     border: 1px solid transparent;
 }
+.p-channel_sidebar__banner--unreads,.p-message_pane__unread_banner{
+background-color: #0087FF !important;
+}
