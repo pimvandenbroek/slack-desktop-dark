@@ -8713,3 +8713,10 @@ color:white !important;
 .c-email__sender_collapsed, .c-email__title_collapsed {
 	color:white !important;
 }
+
+.p-channel_insights__channel .channel_link{
+color:#616061 !important;}
+.p-channel_insights__message ts-message.standalone:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display){
+background-color: transparent;
+    border: 1px solid transparent;
+}
