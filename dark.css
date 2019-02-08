@@ -8723,3 +8723,8 @@ background-color: transparent;
 .p-channel_sidebar__banner--unreads,.p-message_pane__unread_banner{
 background-color: #0087FF !important;
 }
+.c-search_message__body{
+	color:#a1a1a1 !important;
+}
+.c-tabs__tab_menu,.c-search__view,.c-search__input_box,.c-search__input_and_close
+{background-color: #333 !important;}
