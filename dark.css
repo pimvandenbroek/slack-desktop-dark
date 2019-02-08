@@ -8728,3 +8728,15 @@ background-color: #0087FF !important;
 }
 .c-tabs__tab_menu,.c-search__view,.c-search__input_box,.c-search__input_and_close
 {background-color: #333 !important;}
+.p-flexpane_header{
+	background:#151515 !important;
+	color: #949494;
+}
+.p-flexpane_header a,.p-threads_flexpane__header_channel_name{color:#0087FF;}
+.p-threads_flexpane__header_channel_name{color:none;}
+.p-threads_footer__input .p-message_input_field{background: padding-box #545454;
+    border-color: #424242;
+    border-left: 0;
+    color: #a1a1a1;}
+.p-threads_footer__input--legacy .p-message_input_plus{background:#545454;color:#949494;}
+.c-texty_input .ql-placeholder{color:#949494;}
