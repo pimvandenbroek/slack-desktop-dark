@@ -8804,3 +8804,8 @@ background-color: #0087FF !important;
   90%{color: DodgerBlue;}
 	100%{color: orange;}
 }
+
+
+.c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button, .c-message_attachment__author_name.c-link--button:active, .c-message_attachment__author_name.c-link--button:focus, .c-message_attachment__author_name.c-link--button:hover{
+	color:#a1a1a1 !important;
+}
