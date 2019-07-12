@@ -7,6 +7,17 @@ A darker Slack theme.
 Under Preferences -> Sidebar, Add the following under Custom Theme:
 #363636,#444A47,#D39B46,#FEFEFE,#434745,#FEFEFE,#99D04A,#DB6668
 
+## If Slack version is 4.0 or greater
+
+- Install 7Zip if not already installed
+- Install this plugin http://www.tc4shell.com/en/7zip/asar/
+- Open %homepath%\AppData\Local\slack\app-4.0.0\resources\app.asar
+- Edit dist\ssb-interop.bundle.js and append with code below
+- Copy file back in
+- Restart Slack
+
+## If Slack version is < 4.0
+
 Find your Slack's application directory.
 
 * Windows: `%homepath%\AppData\Local\slack\`
