@@ -8813,3 +8813,6 @@ background-color: #0087FF !important;
 .p-classic_nav__model__title__info{color:rgb(184,184,184) !important;}
 .p-classic_nav__model__button,.p-classic_nav__right__search__placeholder,.p-classic_nav__right__search__icon,.p-classic_nav__right__button{color:rgb(184,184,184);}
 .p-workspace__input .p-message_input_field{border-color:rgb(184,184,184);background:#363636;}
+.p-channel_details__heading{color:rgb(184,184,184);}
+.p-flexpane__body{    background: #363636; color: rgb(184,184,184) !important;}
+.p-channel_details__created_link, .c-unified_member__secondary-name--medium,.p-channel_details__created_link:hover{ color: rgb(184,184,184) !important;}
