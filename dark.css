@@ -8810,6 +8810,6 @@ background-color: #0087FF !important;
 	color:#a1a1a1 !important;
 }
 .p-workspace__top_nav{ background:#363636;}
-.channel_header__title__info{color:rgb(184,184,184);}
+.channel_header__title__info{color:rgb(184,184,184) !important;}
 .p-classic_nav__model__button,.p-classic_nav__right__search__placeholder,.p-classic_nav__right__search__icon,.p-classic_nav__right__button{color:rgb(184,184,184);}
 .p-workspace__input .p-message_input_field{border-color:rgb(184,184,184);background:#363636;}
